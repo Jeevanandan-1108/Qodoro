@@ -1,0 +1,43 @@
+[
+  {
+    "file_name": "$382.00.pdf",
+    "provider_name": "Kaushal Patel",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "LE, CARA",
+        "dob": "01/03/2011",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "RAMIREZ, YOSMARY",
+        "dob": "04/09/2011",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      }
+    ]
+  }
+]

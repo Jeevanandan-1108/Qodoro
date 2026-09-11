@@ -1,0 +1,72 @@
+[
+  {
+    "eob_id": "37036040",
+    "file_name": "37036040.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "NIVAR, VIOLETA",
+        "claim_number": "202617305011800",
+        "dob": "12/28/1953",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0120",
+            "paid_code": "D0120",
+            "tooth": null,
+            "description": "periodic oral evaluation - established patient",
+            "dos": "06/19/26",
+            "submitted_amount": "$62.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$42.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_reason_detail": null,
+            "denial_status": "Denied",
+            "denial_reason_general": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "06/19/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$37.00",
+            "allowed_amount": "$37.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$101.00",
+            "plan_pay": "$37.00",
+            "exc_code": "2052",
+            "denial_reason_detail": null,
+            "denial_status": "Denied",
+            "denial_reason_general": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$325.00",
+          "total_approved_amount": "$57.00",
+          "total_allowed_amount": "$57.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$268.00",
+          "total_plan_pay": "$57.00"
+        }
+      }
+    ]
+  }
+]

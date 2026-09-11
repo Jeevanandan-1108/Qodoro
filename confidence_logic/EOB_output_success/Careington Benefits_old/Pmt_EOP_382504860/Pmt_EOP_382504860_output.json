@@ -1,0 +1,92 @@
+[
+  {
+    "eob_id": "Pmt_EOP_382504860",
+    "file_name": "Pmt_EOP_382504860.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "LYNN MYRICK",
+        "date_of_service": "08/01/2023",
+        "services": [
+          {
+            "procedure_code": "D0120",
+            "total_charge": "$39.00",
+            "plan_allowed_amount": "$39.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$0.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$39.00",
+            "patient_responsibility": "$0.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "total_charge": "$23.00",
+            "plan_allowed_amount": "$0.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$23.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$23.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "total_charge": "$18.00",
+            "plan_allowed_amount": "$0.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$18.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$18.00"
+          },
+          {
+            "procedure_code": "D0274",
+            "total_charge": "$52.00",
+            "plan_allowed_amount": "$52.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$0.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$52.00",
+            "patient_responsibility": "$0.00"
+          },
+          {
+            "procedure_code": "D1110",
+            "total_charge": "$78.00",
+            "plan_allowed_amount": "$78.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$0.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$78.00",
+            "patient_responsibility": "$0.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "$210.00",
+          "plan_allowed_amount": "$169.00",
+          "deductible_amount": "$0.00",
+          "copay_amount": "$0.00",
+          "ineligible_amount": "$41.00",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$169.00",
+          "patient_responsibility": "$41.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

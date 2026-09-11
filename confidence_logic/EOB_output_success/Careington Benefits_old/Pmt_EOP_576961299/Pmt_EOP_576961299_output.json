@@ -1,0 +1,68 @@
+[
+  {
+    "eob_id": "Pmt_EOP_576961299",
+    "file_name": "Pmt_EOP_576961299.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "ROBERT RIPLEY",
+        "date_of_service": "11/06/2024",
+        "services": [
+          {
+            "procedure_code": "D1110",
+            "total_charge": "$80.00",
+            "plan_allowed_amount": "$74.00",
+            "deductible_amount": "$12.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$18.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$62.00",
+            "patient_responsibility": "$18.00"
+          },
+          {
+            "procedure_code": "D0120",
+            "total_charge": "$40.00",
+            "plan_allowed_amount": "$40.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$0.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$40.00",
+            "patient_responsibility": "$0.00"
+          },
+          {
+            "procedure_code": "D0330",
+            "total_charge": "$175.00",
+            "plan_allowed_amount": "$88.00",
+            "deductible_amount": "$88.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$175.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$175.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "$295.00",
+          "plan_allowed_amount": "$202.00",
+          "deductible_amount": "$100.00",
+          "copay_amount": "$0.00",
+          "ineligible_amount": "$193.00",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$102.00",
+          "patient_responsibility": "$193.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

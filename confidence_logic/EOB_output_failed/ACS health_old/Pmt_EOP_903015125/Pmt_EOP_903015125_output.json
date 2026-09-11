@@ -1,0 +1,95 @@
+[
+  {
+    "eob_id": "Pmt_EOP_903015125",
+    "file_name": "Pmt_EOP_903015125.pdf",
+    "claim_status": "not denied",
+    "payor": "Dental Blue",
+    "confidence_score": 99.6,
+    "patients": [
+      {
+        "patient_name": "Paul Matthews",
+        "date_of_service": "06/01/26",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D7140",
+            "billed_amount": "310.00",
+            "allowed_amount": "38.75",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "7.75",
+            "ineligible": "134.25",
+            "discount_amount": "137.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "31.00"
+          },
+          {
+            "procedure_code": "D7140",
+            "billed_amount": "310.00",
+            "allowed_amount": "38.75",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "7.75",
+            "ineligible": "134.25",
+            "discount_amount": "137.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "31.00"
+          }
+        ],
+        "totals": {
+          "provider": "",
+          "billed_amount": "310.00",
+          "allowed_amount": "38.75",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "7.75",
+          "ineligible": "134.25",
+          "discount_amount": "137.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "31.00"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed_amount",
+              "computed": 620.0,
+              "extracted": 310.0
+            },
+            {
+              "field": "allowed_amount",
+              "computed": 77.5,
+              "extracted": 38.75
+            },
+            {
+              "field": "coinsurance",
+              "computed": 15.5,
+              "extracted": 7.75
+            },
+            {
+              "field": "ineligible",
+              "computed": 268.5,
+              "extracted": 134.25
+            },
+            {
+              "field": "discount_amount",
+              "computed": 274.0,
+              "extracted": 137.0
+            },
+            {
+              "field": "net_payment_amount",
+              "computed": 62.0,
+              "extracted": 31.0
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

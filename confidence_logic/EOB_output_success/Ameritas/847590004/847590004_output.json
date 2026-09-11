@@ -1,0 +1,76 @@
+[
+  {
+    "eob_id": "847590004",
+    "file_name": "Pmt_EOP_847590004.pdf",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "LISA A EASTON",
+        "relationship": "SELF",
+        "claim_number": "04-22-610-0078-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "03/02/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "89.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0330",
+            "service_date": "03/02/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "175.00",
+            "elig_charges": "76.00",
+            "covered_amount": "76.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1110",
+            "service_date": "03/02/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "149.00",
+            "elig_charges": "85.00",
+            "covered_amount": "85.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "413.00",
+            "elig_charges": "199.00",
+            "covered_amount": "199.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "199.00",
+            "percent": "100%",
+            "payable": "199.00"
+          }
+        ],
+        "sub_total": "199.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "0.00",
+        "total_paid": "199.00"
+      }
+    ],
+    "amount_pd": "199.00",
+    "amount_pd_derived": false,
+    "_page": 1,
+    "_table": 1,
+    "validation": {
+      "status": true,
+      "errors": []
+    }
+  }
+]

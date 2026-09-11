@@ -1,0 +1,117 @@
+[
+  {
+    "file_name": "$120.38.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "MCNEILL, MARTIN",
+        "dob": "01/12/1963",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/09/26",
+            "code": "D0140",
+            "billed_amount": "$104.00",
+            "allowed_amount": "$41.00",
+            "payable_amount": "$41.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$41.00",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "07/09/26",
+            "code": "D0220",
+            "billed_amount": "$36.00",
+            "allowed_amount": "$14.00",
+            "payable_amount": "$14.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$14.00",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_payable_amount": "$55.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$55.00",
+          "total_disallow_amount": null,
+          "total_billed_amount": "$140.00",
+          "total_allowed_amount": "$55.00"
+        }
+      },
+      {
+        "patient_name": "SOUTHAM, LESLIE",
+        "dob": "11/28/1997",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/07/26",
+            "code": "D0140",
+            "billed_amount": "$104.00",
+            "allowed_amount": "$55.22",
+            "payable_amount": "$55.22",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$55.22",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "07/07/26",
+            "code": "D0220",
+            "billed_amount": "$36.00",
+            "allowed_amount": "$10.16",
+            "payable_amount": "$10.16",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$10.16",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_payable_amount": "$65.38",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$65.38",
+          "total_disallow_amount": null,
+          "total_billed_amount": "$140.00",
+          "total_allowed_amount": "$65.38"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "eob_id": "837493526",
+    "file_name": "Pmt_EOP_837493526.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "LIGHT, BROOKE",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "1985-06-09",
+        "services": [
+          {
+            "date_of_service": "02/18/26",
+            "service_code": "D1110",
+            "billed_amount": "149.00",
+            "ppo_discount": "54.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "02/18/26",
+            "service_code": "D0120",
+            "billed_amount": "89.00",
+            "ppo_discount": "36.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "238.00",
+          "ppo_discount": "90.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "148.00"
+        },
+        "page_number": 1,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "OF PARTIAL LIGHT, WESLEY",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "2014-04-29",
+        "services": [
+          {
+            "date_of_service": "02/18/26",
+            "service_code": "D0120",
+            "billed_amount": "89.00",
+            "ppo_discount": "36.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          },
+          {
+            "date_of_service": "02/18/26",
+            "service_code": "D1206",
+            "billed_amount": "62.00",
+            "ppo_discount": "0.00",
+            "non_covered": "62.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "62.00",
+            "paid_amount": "0.00"
+          },
+          {
+            "date_of_service": "02/18/26",
+            "service_code": "D1120",
+            "billed_amount": "149.00",
+            "ppo_discount": "79.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "70.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "300.00",
+          "ppo_discount": "115.00",
+          "non_covered": "62.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "62.00",
+          "paid_amount": "123.00"
+        },
+        "page_number": 3,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "SHAURYA ANAND, FNU",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "2008-05-01",
+        "services": [
+          {
+            "date_of_service": "01/08/26",
+            "service_code": "D7210",
+            "billed_amount": "440.00",
+            "ppo_discount": "137.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "176.50",
+            "patient_responsibility": "0.00",
+            "paid_amount": "126.50"
+          },
+          {
+            "date_of_service": "01/08/26",
+            "service_code": "D7956",
+            "billed_amount": "820.00",
+            "ppo_discount": "0.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "410.00",
+            "patient_responsibility": "285.50",
+            "paid_amount": "124.50"
+          },
+          {
+            "date_of_service": "01/08/26",
+            "service_code": "D7953",
+            "billed_amount": "920.00",
+            "ppo_discount": "422.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "249.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "249.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "2180.00",
+          "ppo_discount": "559.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "835.50",
+          "patient_responsibility": "285.50",
+          "paid_amount": "500.00"
+        },
+        "page_number": 5,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

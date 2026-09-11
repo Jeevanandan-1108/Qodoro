@@ -1,0 +1,388 @@
+[
+  {
+    "eob_id": "497051284",
+    "file_name": "497051284.pdf",
+    "claim_status": "Denied",
+    "payor": "UNITED HEALTHCARE - G",
+    "confidence_score": 99.5,
+    "patients": [
+      {
+        "patient_name": "HENRY, MIHA",
+        "provider": "Duc Tang",
+        "date_of_service": "05/23/24",
+        "services": [
+          {
+            "procedure_code": "D1110",
+            "billed_amount": "64.00",
+            "allowed_amount": "0.00",
+            "payable_amount": "0.00",
+            "copay_amount": "0.00",
+            "coins_amount": "0.00",
+            "deduct_amount": "0.00",
+            "overmax_amount": "0.00",
+            "patient_pay": "0.00",
+            "other_insur": "0.00",
+            "net_amount": "0.00"
+          },
+          {
+            "procedure_code": "D0367",
+            "billed_amount": "249.59",
+            "allowed_amount": "0.00",
+            "payable_amount": "0.00",
+            "copay_amount": "0.00",
+            "coins_amount": "0.00",
+            "deduct_amount": "0.00",
+            "overmax_amount": "0.00",
+            "patient_pay": "0.00",
+            "other_insur": "0.00",
+            "net_amount": "0.00"
+          },
+          {
+            "procedure_code": "D0150",
+            "billed_amount": "59.00",
+            "allowed_amount": "0.00",
+            "payable_amount": "0.00",
+            "copay_amount": "0.00",
+            "coins_amount": "0.00",
+            "deduct_amount": "0.00",
+            "overmax_amount": "0.00",
+            "patient_pay": "0.00",
+            "other_insur": "0.00",
+            "net_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "372.59",
+          "allowed_amount": "0.00",
+          "payable_amount": "0.00",
+          "copay_amount": "0.00",
+          "coins_amount": "0.00",
+          "deduct_amount": "0.00",
+          "overmax_amount": "0.00",
+          "patient_pay": "0.00",
+          "other_insur": "0.00",
+          "net_amount": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 3,
+        "_total_fields": 10,
+        "_model_confidence": 1.0
+      },
+      {
+        "patient_name": "TIMMONS, ANTONIO",
+        "provider": "Duc Tang",
+        "date_of_service": "05/23/24",
+        "services": [
+          {
+            "procedure_code": "D0120",
+            "billed_amount": "$34.00",
+            "allowed_amount": "$34.00",
+            "payable_amount": "$34.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$34.00"
+          },
+          {
+            "procedure_code": "D0274",
+            "billed_amount": "$47.00",
+            "allowed_amount": "$47.00",
+            "payable_amount": "$47.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$47.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "billed_amount": "$22.00",
+            "allowed_amount": "$22.00",
+            "payable_amount": "$22.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$22.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "billed_amount": "$17.00",
+            "allowed_amount": "$17.00",
+            "payable_amount": "$17.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$17.00"
+          },
+          {
+            "procedure_code": "D4910",
+            "billed_amount": "$122.00",
+            "allowed_amount": "$122.00",
+            "payable_amount": "$122.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$122.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "$242.00",
+          "allowed_amount": "$242.00",
+          "payable_amount": "$242.00",
+          "copay_amount": "$0.00",
+          "coins_amount": "$0.00",
+          "deduct_amount": "$0.00",
+          "overmax_amount": "$0.00",
+          "patient_pay": "$0.00",
+          "other_insur": "$0.00",
+          "net_amount": "$242.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 5,
+        "_total_fields": 10,
+        "_model_confidence": 1.0
+      },
+      {
+        "patient_name": "HENRY, MIHA",
+        "provider": "Duc Tang",
+        "date_of_service": "05/23/24",
+        "services": [
+          {
+            "procedure_code": "D1110",
+            "billed_amount": "$64.00",
+            "allowed_amount": "$64.00",
+            "payable_amount": "$64.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$64.00"
+          },
+          {
+            "procedure_code": "D0367",
+            "billed_amount": "$0.00",
+            "allowed_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00"
+          },
+          {
+            "procedure_code": "D0150",
+            "billed_amount": "$59.00",
+            "allowed_amount": "$59.00",
+            "payable_amount": "$59.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$59.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "$123.00",
+          "allowed_amount": "$123.00",
+          "payable_amount": "$123.00",
+          "copay_amount": "$0.00",
+          "coins_amount": "$0.00",
+          "deduct_amount": "$0.00",
+          "overmax_amount": "$0.00",
+          "patient_pay": "$0.00",
+          "other_insur": "$0.00",
+          "net_amount": "$123.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 15,
+        "_total_fields": 10,
+        "_model_confidence": 1.0
+      },
+      {
+        "patient_name": "LUCERO, MAURILIA",
+        "provider": "Duc Tang",
+        "date_of_service": "01/11/24",
+        "services": [
+          {
+            "procedure_code": "D0150",
+            "billed_amount": "$112.34",
+            "allowed_amount": "$73.00",
+            "payable_amount": "$73.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$73.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "$112.34",
+          "allowed_amount": "$73.00",
+          "payable_amount": "$73.00",
+          "copay_amount": "$0.00",
+          "coins_amount": "$0.00",
+          "deduct_amount": "$0.00",
+          "overmax_amount": "$0.00",
+          "patient_pay": "$0.00",
+          "other_insur": "$0.00",
+          "net_amount": "$73.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 1,
+        "_total_fields": 10,
+        "_model_confidence": 0.99
+      },
+      {
+        "patient_name": "LUCERO, MAURILIA",
+        "provider": "Alex Ramos",
+        "date_of_service": "04/15/24",
+        "services": [
+          {
+            "procedure_code": "D5225",
+            "billed_amount": "1,592.57",
+            "allowed_amount": "0.00",
+            "payable_amount": "0.00",
+            "copay_amount": "0.00",
+            "coins_amount": "0.00",
+            "deduct_amount": "0.00",
+            "overmax_amount": "0.00",
+            "patient_pay": "891.00",
+            "other_insur": "0.00",
+            "net_amount": "0.00"
+          },
+          {
+            "procedure_code": "D5820",
+            "billed_amount": "692.00",
+            "allowed_amount": "0.00",
+            "payable_amount": "0.00",
+            "copay_amount": "0.00",
+            "coins_amount": "0.00",
+            "deduct_amount": "0.00",
+            "overmax_amount": "0.00",
+            "patient_pay": "0.00",
+            "other_insur": "0.00",
+            "net_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "2,284.57",
+          "allowed_amount": "0.00",
+          "payable_amount": "0.00",
+          "copay_amount": "0.00",
+          "coins_amount": "0.00",
+          "deduct_amount": "0.00",
+          "overmax_amount": "0.00",
+          "patient_pay": "891.00",
+          "other_insur": "0.00",
+          "net_amount": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 2,
+        "_total_fields": 10,
+        "_model_confidence": 0.99
+      },
+      {
+        "patient_name": "LUCERO, MAURILIA",
+        "provider": "Alex Ramos",
+        "date_of_service": "05/13/24",
+        "services": [
+          {
+            "procedure_code": "D7210",
+            "billed_amount": "$335.03",
+            "allowed_amount": "$205.00",
+            "payable_amount": "$205.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$205.00"
+          },
+          {
+            "procedure_code": "D7953",
+            "billed_amount": "$589.84",
+            "allowed_amount": "$368.00",
+            "payable_amount": "$368.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$368.00"
+          },
+          {
+            "procedure_code": "D5820",
+            "billed_amount": "$692.47",
+            "allowed_amount": "$444.00",
+            "payable_amount": "$444.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$444.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "$1,617.34",
+          "allowed_amount": "$1,017.00",
+          "payable_amount": "$1,017.00",
+          "copay_amount": "$0.00",
+          "coins_amount": "$0.00",
+          "deduct_amount": "$0.00",
+          "overmax_amount": "$0.00",
+          "patient_pay": "$0.00",
+          "other_insur": "$0.00",
+          "net_amount": "$1,017.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 3,
+        "_total_fields": 10,
+        "_model_confidence": 0.99
+      }
+    ]
+  }
+]

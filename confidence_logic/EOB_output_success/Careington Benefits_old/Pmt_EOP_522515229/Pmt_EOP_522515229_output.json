@@ -1,0 +1,44 @@
+[
+  {
+    "eob_id": "Pmt_EOP_522515229",
+    "file_name": "Pmt_EOP_522515229.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "BRIAN SCHLEY",
+        "date_of_service": "07/09/2024",
+        "services": [
+          {
+            "procedure_code": "D4346",
+            "total_charge": "$141.56",
+            "plan_allowed_amount": "$40.00",
+            "deductible_amount": "$40.00",
+            "copay_amount": "$141.56",
+            "ineligible_amount": "$141.56",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$141.56"
+          }
+        ],
+        "totals": {
+          "total_charge": "$141.56",
+          "plan_allowed_amount": "$40.00",
+          "deductible_amount": "$40.00",
+          "copay_amount": "$141.56",
+          "ineligible_amount": "$141.56",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$0.00",
+          "patient_responsibility": "$141.56"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

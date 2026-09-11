@@ -1,0 +1,68 @@
+[
+  {
+    "eob_id": "Pmt_EOP_541709991",
+    "file_name": "Pmt_EOP_541709991.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "ANGELINA SANTOS",
+        "date_of_service": "08/14/2024",
+        "services": [
+          {
+            "procedure_code": "D0274",
+            "total_charge": "$52.00",
+            "plan_allowed_amount": "$37.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$15.00",
+            "ineligible_amount": "$15.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$37.00",
+            "patient_responsibility": "$15.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "total_charge": "$39.13",
+            "plan_allowed_amount": "$16.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$23.13",
+            "ineligible_amount": "$23.13",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$16.00",
+            "patient_responsibility": "$23.13"
+          },
+          {
+            "procedure_code": "D0150",
+            "total_charge": "$67.00",
+            "plan_allowed_amount": "$49.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$18.00",
+            "ineligible_amount": "$18.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$49.00",
+            "patient_responsibility": "$18.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "$158.13",
+          "plan_allowed_amount": "$102.00",
+          "deductible_amount": "$0.00",
+          "copay_amount": "$56.13",
+          "ineligible_amount": "$56.13",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$102.00",
+          "patient_responsibility": "$56.13"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

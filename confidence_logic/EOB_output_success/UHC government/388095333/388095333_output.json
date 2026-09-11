@@ -1,0 +1,101 @@
+[
+  {
+    "eob_id": "388095333",
+    "claim_status": "Denied",
+    "payor": "UNITED HEALTHCARE - G",
+    "confidence_score": 99.5,
+    "patients": [
+      {
+        "patient_name": "ANTONOPOULOS, GEORGE",
+        "provider": "Duc Tang",
+        "date_of_service": "05/18/23",
+        "services": [
+          {
+            "procedure_code": "D2740",
+            "billed_amount": "$873.00",
+            "allowed_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "billed_amount": "$22.00",
+            "allowed_amount": "$22.00",
+            "payable_amount": "$22.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$22.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "$895.00",
+          "allowed_amount": "$22.00",
+          "payable_amount": "$22.00",
+          "copay_amount": "$0.00",
+          "coins_amount": "$0.00",
+          "deduct_amount": "$0.00",
+          "overmax_amount": "$0.00",
+          "patient_pay": "$0.00",
+          "other_insur": "$0.00",
+          "net_amount": "$22.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 2,
+        "_total_fields": 10,
+        "_model_confidence": 0.99
+      },
+      {
+        "patient_name": "ANTONOPOULOS, GEORGE",
+        "provider": "Duc Tang",
+        "date_of_service": "05/18/23",
+        "services": [
+          {
+            "procedure_code": "D4342",
+            "billed_amount": "$114.00",
+            "allowed_amount": "$114.00",
+            "payable_amount": "$114.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "overmax_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$114.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "$114.00",
+          "allowed_amount": "$114.00",
+          "payable_amount": "$114.00",
+          "copay_amount": "$0.00",
+          "coins_amount": "$0.00",
+          "deduct_amount": "$0.00",
+          "overmax_amount": "$0.00",
+          "patient_pay": "$0.00",
+          "other_insur": "$0.00",
+          "net_amount": "$114.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 1,
+        "_total_fields": 10,
+        "_model_confidence": 1.0
+      }
+    ]
+  }
+]

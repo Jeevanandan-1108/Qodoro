@@ -1,0 +1,279 @@
+[
+  {
+    "file_name": "$3,017.00.pdf",
+    "provider_name": "Kaushal Patel",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "BROOKS, WILLIE",
+        "dob": "10/11/1958",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/01/26",
+            "code": "D5110",
+            "billed_amount": "$1,200.00",
+            "allowed_amount": "$1,030.00",
+            "disallow_amount": "$1,030.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$1,030.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "07/01/26",
+            "code": "D5214",
+            "billed_amount": "$1,300.00",
+            "allowed_amount": "$1,141.00",
+            "disallow_amount": "$1,141.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$1,141.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$2,171.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$2,171.00",
+          "total_billed_amount": "$2,500.00",
+          "total_allowed_amount": "$2,171.00"
+        }
+      },
+      {
+        "patient_name": "FACKLER, DENA",
+        "dob": "07/16/1978",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/01/26",
+            "code": "D7210",
+            "billed_amount": "$305.00",
+            "allowed_amount": "$213.00",
+            "disallow_amount": "$213.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$213.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$213.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$213.00",
+          "total_billed_amount": "$305.00",
+          "total_allowed_amount": "$213.00"
+        }
+      },
+      {
+        "patient_name": "FACKLER, DENA",
+        "dob": "07/16/1978",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/06/26",
+            "code": "D9110",
+            "billed_amount": "$100.00",
+            "allowed_amount": "$72.00",
+            "disallow_amount": "$72.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$72.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$72.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$72.00",
+          "total_billed_amount": "$100.00",
+          "total_allowed_amount": "$72.00"
+        }
+      },
+      {
+        "patient_name": "JIMENEZ COLON, AIDA",
+        "dob": "04/09/1959",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/02/26",
+            "code": "D4341",
+            "billed_amount": "$320.00",
+            "allowed_amount": "$0.00",
+            "disallow_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$198.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00",
+            "exc_code": "1051",
+            "denial_status": "Denied",
+            "denial_reason": "1051 - Service denied - exceeds maximum allowed per period for procedure grouping."
+          },
+          {
+            "item": "2",
+            "dos": "07/02/26",
+            "code": "D4342",
+            "billed_amount": "$220.00",
+            "allowed_amount": "$143.00",
+            "disallow_amount": "$143.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$143.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$143.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$198.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$143.00",
+          "total_billed_amount": "$540.00",
+          "total_allowed_amount": "$143.00"
+        }
+      },
+      {
+        "patient_name": "MARTINEZ DE JESUS, ALSENIA",
+        "dob": "09/18/1964",
+        "services": [
+          {
+            "item": "1",
+            "dos": "06/30/26",
+            "code": "D4341",
+            "billed_amount": "$320.00",
+            "allowed_amount": "$198.00",
+            "disallow_amount": "$198.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$198.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "06/30/26",
+            "code": "D4341",
+            "billed_amount": "$320.00",
+            "allowed_amount": "$198.00",
+            "disallow_amount": "$198.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$198.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$396.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$396.00",
+          "total_billed_amount": "$640.00",
+          "total_allowed_amount": "$396.00"
+        }
+      },
+      {
+        "patient_name": "URENA, RAFAEL",
+        "dob": "06/25/1958",
+        "services": [
+          {
+            "item": "1",
+            "dos": "07/06/26",
+            "code": "D0220",
+            "billed_amount": "$36.00",
+            "allowed_amount": "$22.00",
+            "disallow_amount": "$22.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$22.00",
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$22.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$22.00",
+          "total_billed_amount": "$36.00",
+          "total_allowed_amount": "$22.00"
+        }
+      }
+    ]
+  }
+]

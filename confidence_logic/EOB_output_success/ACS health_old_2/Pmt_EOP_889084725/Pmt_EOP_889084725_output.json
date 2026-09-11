@@ -1,0 +1,210 @@
+[
+  {
+    "eob_id": "Pmt_EOP_889084725",
+    "file_name": "Pmt_EOP_889084725.pdf",
+    "claim_status": "not denied",
+    "payor": "Dental Blue",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Leanne Burnett",
+        "date_of_service": "05/12/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D0120",
+            "billed_amount": "95.00",
+            "allowed_amount": "53.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "42.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "53.00"
+          },
+          {
+            "procedure_code": "D0330",
+            "billed_amount": "184.00",
+            "allowed_amount": "116.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "68.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "116.00"
+          },
+          {
+            "procedure_code": "D1110",
+            "billed_amount": "159.00",
+            "allowed_amount": "95.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "64.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "95.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "438.00",
+          "allowed_amount": "264.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "0.00",
+          "discount_amount": "174.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "264.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Leanne Burnett",
+        "date_of_service": "05/13/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D0274",
+            "billed_amount": "104.00",
+            "allowed_amount": "67.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "37.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "67.00"
+          },
+          {
+            "procedure_code": "D1110",
+            "billed_amount": "159.00",
+            "allowed_amount": "95.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "64.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "95.00"
+          },
+          {
+            "procedure_code": "D0120",
+            "billed_amount": "95.00",
+            "allowed_amount": "53.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "42.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "53.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "billed_amount": "49.00",
+            "allowed_amount": "30.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "19.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "30.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "billed_amount": "40.00",
+            "allowed_amount": "23.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "17.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "23.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "447.00",
+          "allowed_amount": "268.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "0.00",
+          "discount_amount": "179.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "268.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Brian Stewart",
+        "date_of_service": "05/12/26",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D0120",
+            "billed_amount": "95.00",
+            "allowed_amount": "53.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "42.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "53.00"
+          },
+          {
+            "procedure_code": "D1110",
+            "billed_amount": "159.00",
+            "allowed_amount": "95.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "64.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "95.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "254.00",
+          "allowed_amount": "148.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "0.00",
+          "discount_amount": "106.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "148.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

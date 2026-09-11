@@ -1,0 +1,229 @@
+[
+  {
+    "eob_id": "37290088",
+    "file_name": "37290088.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "ABREU, ANA",
+        "claim_number": "202620905274100",
+        "dob": "03/04/1956",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0140",
+            "paid_code": "D0140",
+            "tooth": null,
+            "description": "limited oral evaluation - problem focused",
+            "dos": "07/24/26",
+            "submitted_amount": "$104.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.00",
+            "plan_pay": "$20.00",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$104.00",
+          "total_approved_amount": "$20.00",
+          "total_allowed_amount": "$20.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$84.00",
+          "total_plan_pay": "$20.00"
+        }
+      },
+      {
+        "patient_name": "JIMENEZ, ALTAGRACIA",
+        "claim_number": "202620905076700",
+        "dob": "12/30/1939",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D5213",
+            "paid_code": "D5213",
+            "tooth": "UA",
+            "description": "maxillary partial denture - cast metal framework with resin denture bases (including retentive/clasping materials, rests and teeth)",
+            "dos": "07/23/26",
+            "submitted_amount": "$1,300.00",
+            "approved_amount": "$698.50",
+            "allowed_amount": "$698.50",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$601.50",
+            "plan_pay": "$698.50",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D5214",
+            "paid_code": "D5214",
+            "tooth": "LA",
+            "description": "mandibular partial denture - cast metal framework with resin denture bases (including retentive/clasping materials, rests and teeth)",
+            "dos": "07/23/26",
+            "submitted_amount": "$1,300.00",
+            "approved_amount": "$698.50",
+            "allowed_amount": "$698.50",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$601.50",
+            "plan_pay": "$698.50",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$2,600.00",
+          "total_approved_amount": "$1,397.00",
+          "total_allowed_amount": "$1,397.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$1,203.00",
+          "total_plan_pay": "$1,397.00"
+        }
+      },
+      {
+        "patient_name": "OJEDA, TERESA",
+        "claim_number": "202620905092201",
+        "dob": "11/01/1954",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0150",
+            "paid_code": "D0150",
+            "tooth": null,
+            "description": "comprehensive oral evaluation - new or established patient",
+            "dos": "07/23/26",
+            "submitted_amount": "$110.00",
+            "approved_amount": "$25.40",
+            "allowed_amount": "$25.40",
+            "other_insurance": "$20.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.60",
+            "plan_pay": "$5.40",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "07/23/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$46.99",
+            "allowed_amount": "$46.99",
+            "other_insurance": "$37.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$91.01",
+            "plan_pay": "$9.99",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "submitted_code": "D0220",
+            "paid_code": "D0220",
+            "tooth": "9",
+            "description": "intraoral - periapical first radiographic image",
+            "dos": "07/23/26",
+            "submitted_amount": "$36.00",
+            "approved_amount": "$10.16",
+            "allowed_amount": "$10.16",
+            "other_insurance": "$8.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$25.84",
+            "plan_pay": "$2.16",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$284.00",
+          "total_approved_amount": "$82.55",
+          "total_allowed_amount": "$82.55",
+          "total_other_insurance": "$65.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$201.45",
+          "total_plan_pay": "$17.55"
+        }
+      },
+      {
+        "patient_name": "PAMPHIL, MARIE",
+        "claim_number": "202620305230100",
+        "dob": "06/20/1953",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0140",
+            "paid_code": "D0140",
+            "tooth": null,
+            "description": "limited oral evaluation - problem focused",
+            "dos": "07/21/26",
+            "submitted_amount": "$104.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.00",
+            "plan_pay": "$20.00",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$104.00",
+          "total_approved_amount": "$20.00",
+          "total_allowed_amount": "$20.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$84.00",
+          "total_plan_pay": "$20.00"
+        }
+      }
+    ]
+  }
+]

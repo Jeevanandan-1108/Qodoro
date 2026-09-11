@@ -1,0 +1,53 @@
+[
+  {
+    "eob_id": "846210438",
+    "file_name": "Pmt_EOP_846210438.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "CHARLOTTE, NC 28277 JORDAN DEJACO",
+        "claim_payor": "UMR",
+        "dob": "JORDAN DEJACO",
+        "services": [
+          {
+            "date_of_service": "03/02/26",
+            "service_code": "D4341 ()",
+            "billed_amount": "367.00",
+            "ppo_discount": "122.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "49.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "196.00"
+          },
+          {
+            "date_of_service": "03/02/26",
+            "service_code": "D4341 ()",
+            "billed_amount": "367.00",
+            "ppo_discount": "122.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "49.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "196.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "734.00",
+          "ppo_discount": "244.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "98.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "392.00"
+        },
+        "page_number": 1,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

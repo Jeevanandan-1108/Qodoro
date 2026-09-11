@@ -1,0 +1,95 @@
+[
+  {
+    "eob_id": "846828828",
+    "file_name": "Pmt_EOP_846828828.pdf",
+    "payor": "Blue Cross and Blue Shield of Texas",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "OSIYEMI,OLUMADE S",
+        "date_of_service": "03/10/26",
+        "services": [
+          {
+            "service_code": "D0274",
+            "amount_billed": "104.00",
+            "discounts_and_reductions": "37.00",
+            "allowed_amount": "67.00",
+            "dental_plan_responsibility": "67.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1110",
+            "amount_billed": "159.00",
+            "discounts_and_reductions": "64.00",
+            "allowed_amount": "95.00",
+            "dental_plan_responsibility": "95.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0120",
+            "amount_billed": "95.00",
+            "discounts_and_reductions": "42.00",
+            "allowed_amount": "53.00",
+            "dental_plan_responsibility": "53.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0220",
+            "amount_billed": "49.00",
+            "discounts_and_reductions": "19.00",
+            "allowed_amount": "30.00",
+            "dental_plan_responsibility": "30.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0230",
+            "amount_billed": "40.00",
+            "discounts_and_reductions": "17.00",
+            "allowed_amount": "23.00",
+            "dental_plan_responsibility": "23.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          }
+        ],
+        "totals": {
+          "amount_billed": "447.00",
+          "discounts_and_reductions": "179.00",
+          "allowed_amount": "268.00",
+          "dental_plan_responsibility": "268.00",
+          "deductible_amount": "0.00",
+          "copay_amount": "0.00",
+          "coinsurance": "0.00",
+          "amount_not_covered": "0.00",
+          "patient_costs": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 5,
+        "_total_fields": 9,
+        "_model_confidence": 1.0
+      }
+    ]
+  }
+]

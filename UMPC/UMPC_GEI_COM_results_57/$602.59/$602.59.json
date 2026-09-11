@@ -1,0 +1,261 @@
+[
+  {
+    "file_name": "$602.59.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "HOPPES, ANNA",
+        "dob": "07/24/2010",
+        "services": [
+          {
+            "item": "1",
+            "dos": "06/17/26",
+            "code": "D2392",
+            "billed_amount": "$220.00",
+            "allowed_amount": "$76.20",
+            "payable_amount": "$76.20",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$76.20",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "06/17/26",
+            "code": "D2393",
+            "billed_amount": "$250.00",
+            "allowed_amount": "$82.55",
+            "payable_amount": "$82.55",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$82.55",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "dos": "06/17/26",
+            "code": "D2392",
+            "billed_amount": "$220.00",
+            "allowed_amount": "$76.20",
+            "payable_amount": "$76.20",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$76.20",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "4",
+            "dos": "06/17/26",
+            "code": "D2391",
+            "billed_amount": "$200.00",
+            "allowed_amount": "$63.50",
+            "payable_amount": "$63.50",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$63.50",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_payable_amount": "$298.45",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$298.45",
+          "total_disallow_amount": null,
+          "total_billed_amount": "$890.00",
+          "total_allowed_amount": "$298.45"
+        }
+      },
+      {
+        "patient_name": "LIZARDO GARCIA, RUT",
+        "dob": "01/24/1996",
+        "services": [
+          {
+            "item": "1",
+            "dos": "06/15/26",
+            "code": "D2331",
+            "billed_amount": "$235.00",
+            "allowed_amount": "$76.20",
+            "payable_amount": "$76.20",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$76.20",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_payable_amount": "$76.20",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$76.20",
+          "total_disallow_amount": null,
+          "total_billed_amount": "$235.00",
+          "total_allowed_amount": "$76.20"
+        }
+      },
+      {
+        "patient_name": "MENDEZ, NANCY",
+        "dob": "05/03/2003",
+        "services": [
+          {
+            "item": "1",
+            "dos": "06/19/26",
+            "code": "D0140",
+            "billed_amount": "$104.00",
+            "allowed_amount": "$55.22",
+            "payable_amount": "$55.22",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$55.22",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "06/19/26",
+            "code": "D0274",
+            "billed_amount": "$79.00",
+            "allowed_amount": "$35.56",
+            "payable_amount": "$35.56",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$35.56",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "dos": "06/19/26",
+            "code": "D0220",
+            "billed_amount": "$36.00",
+            "allowed_amount": "$10.16",
+            "payable_amount": "$10.16",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$10.16",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_payable_amount": "$100.94",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$100.94",
+          "total_disallow_amount": null,
+          "total_billed_amount": "$219.00",
+          "total_allowed_amount": "$100.94"
+        }
+      },
+      {
+        "patient_name": "MOHL, JENNA",
+        "dob": "12/15/2000",
+        "services": [
+          {
+            "item": "1",
+            "dos": "06/17/26",
+            "code": "D2391",
+            "billed_amount": "$200.00",
+            "allowed_amount": "$63.50",
+            "payable_amount": "$63.50",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$63.50",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "06/17/26",
+            "code": "D2391",
+            "billed_amount": "$200.00",
+            "allowed_amount": "$63.50",
+            "payable_amount": "$63.50",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$63.50",
+            "disallow_amount": null,
+            "exc_code": "FFS",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_payable_amount": "$127.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$127.00",
+          "total_disallow_amount": null,
+          "total_billed_amount": "$400.00",
+          "total_allowed_amount": "$127.00"
+        }
+      }
+    ]
+  }
+]

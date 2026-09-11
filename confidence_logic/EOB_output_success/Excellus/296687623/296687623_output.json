@@ -1,0 +1,57 @@
+[
+  {
+    "eob_id": "296687623",
+    "file_name": "Pmt_EOP_296687623.pdf",
+    "claim_status": "not denied",
+    "payor": "Excellus",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "LESLEE MABEE",
+        "provider": "Duc Tang",
+        "date_of_service": "11/10/22",
+        "services": [
+          {
+            "procedure_code": "D0120",
+            "billed_amount": "65.63",
+            "contractual_adjustments": "0.00",
+            "other_adjustments": "0.00",
+            "allowed": "34.11",
+            "patient_responsibility": "31.52",
+            "payment": "34.11"
+          },
+          {
+            "procedure_code": "D1110",
+            "billed_amount": "117.39",
+            "contractual_adjustments": "0.00",
+            "other_adjustments": "0.00",
+            "allowed": "75.40",
+            "patient_responsibility": "41.99",
+            "payment": "75.40"
+          },
+          {
+            "procedure_code": "D0330",
+            "billed_amount": "141.85",
+            "contractual_adjustments": "0.00",
+            "other_adjustments": "0.00",
+            "allowed": "79.10",
+            "patient_responsibility": "62.75",
+            "payment": "79.10"
+          }
+        ],
+        "claim_totals": {
+          "billed_amount": "324.87",
+          "contractual_adjustments": "0.00",
+          "other_adjustments": "0.00",
+          "allowed": "188.61",
+          "patient_responsibility": "136.26",
+          "payment": "188.61"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

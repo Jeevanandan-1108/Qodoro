@@ -1,0 +1,64 @@
+[
+  {
+    "eob_id": "Pmt_EOP_571807739",
+    "file_name": "Pmt_EOP_571807739.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "ANGELINA SANTOS",
+        "date_of_service": "10/30/2024",
+        "services": [
+          {
+            "procedure_code": "D2391",
+            "total_charge": "$147.00",
+            "plan_allowed_amount": "$147.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$97.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$50.00",
+            "patient_responsibility": "$97.00"
+          },
+          {
+            "procedure_code": "D2391",
+            "total_charge": "$147.00",
+            "plan_allowed_amount": "$147.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$97.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$50.00",
+            "patient_responsibility": "$97.00"
+          },
+          {
+            "procedure_code": "D2391",
+            "total_charge": "$147.00",
+            "plan_allowed_amount": "$147.00",
+            "deductible_amount": "$100.00",
+            "ineligible_amount": "$147.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$147.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "$441.00",
+          "plan_allowed_amount": "$441.00",
+          "deductible_amount": "$100.00",
+          "ineligible_amount": "$341.00",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$100.00",
+          "patient_responsibility": "$341.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "file_name": "354510782.pdf",
+    "provider_name": "Duc Tang",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "RUFF, CAIMEN",
+        "dob": "09/25/1975",
+        "services": [
+          {
+            "item": "1",
+            "dos": "05/08/23",
+            "code": "D2332",
+            "billed_amount": "$170.00",
+            "allowed_amount": "$170.00",
+            "disallow_amount": "$170.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$170.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "05/08/23",
+            "code": "D2332",
+            "billed_amount": "$170.00",
+            "allowed_amount": "$170.00",
+            "disallow_amount": "$170.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$170.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "dos": "05/08/23",
+            "code": "D2393",
+            "billed_amount": "$200.00",
+            "allowed_amount": "$200.00",
+            "disallow_amount": "$200.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$200.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "4",
+            "dos": "05/08/23",
+            "code": "D2393",
+            "billed_amount": "$200.00",
+            "allowed_amount": "$200.00",
+            "disallow_amount": "$200.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$200.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_billed_amount": "$740.00",
+          "total_allowed_amount": "$740.00",
+          "total_disallow_amount": "$740.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$740.00"
+        }
+      }
+    ]
+  }
+]

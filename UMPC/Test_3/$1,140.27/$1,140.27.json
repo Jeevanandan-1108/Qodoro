@@ -1,0 +1,111 @@
+[
+  {
+    "file_name": "$1,140.27.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "BATISTA, RAFAEL",
+        "dob": "02/09/1963",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "BURROUGHS, JUAN",
+        "dob": "08/12/1967",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "KINTZEL, ALICIA",
+        "dob": "06/29/1982",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "KUTZ, DEBBIE",
+        "dob": "02/16/1967",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "ORTIZ, LILIANA",
+        "dob": "12/02/1993",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "SOUTHAM, LESLIE",
+        "dob": "11/28/1997",
+        "services": [],
+        "totals": {
+          "total_billed_amount": "$0.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      }
+    ]
+  }
+]

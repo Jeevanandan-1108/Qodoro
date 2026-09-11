@@ -1,0 +1,89 @@
+[
+  {
+    "eob_id": "426785625",
+    "file_name": "426785625.pdf",
+    "payor": "Wellnet Healthcare",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Counalane Codandaramane",
+        "provider": "Duc Tang DDS PLLC",
+        "services": [
+          {
+            "service_date": "11/08/2023",
+            "proc_code": "D0150",
+            "charge_amount": "61.00",
+            "ineligible_amount": "0.00",
+            "provider_discount": "0.00",
+            "covered_amount": "61.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "normal_benefit": "61.00",
+            "cob_adj": "0.00",
+            "payment_amount": "61.00"
+          },
+          {
+            "service_date": "11/08/2023",
+            "proc_code": "D0274",
+            "charge_amount": "43.00",
+            "ineligible_amount": "43.00",
+            "provider_discount": "0.00",
+            "covered_amount": "0.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "normal_benefit": "0.00",
+            "cob_adj": "0.00",
+            "payment_amount": "0.00"
+          },
+          {
+            "service_date": "11/08/2023",
+            "proc_code": "D0220",
+            "charge_amount": "18.00",
+            "ineligible_amount": "0.00",
+            "provider_discount": "0.00",
+            "covered_amount": "18.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "normal_benefit": "18.00",
+            "cob_adj": "0.00",
+            "payment_amount": "18.00"
+          },
+          {
+            "service_date": "11/08/2023",
+            "proc_code": "D0230",
+            "charge_amount": "15.00",
+            "ineligible_amount": "0.00",
+            "provider_discount": "0.00",
+            "covered_amount": "15.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "normal_benefit": "15.00",
+            "cob_adj": "0.00",
+            "payment_amount": "15.00"
+          }
+        ],
+        "totals": {
+          "charge_amount": "137.00",
+          "ineligible_amount": "43.00",
+          "provider_discount": "0.00",
+          "covered_amount": "94.00",
+          "deductible_amount": "0.00",
+          "copay_amount": "0.00",
+          "normal_benefit": "94.00",
+          "cob_adj": "0.00",
+          "payment_amount": "94.00",
+          "patient_responsibility": "43.00",
+          "other_insurance_payment": "0.00",
+          "adjustments": "0.00"
+        },
+        "_model_confidence": 1.0,
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_total_fields": 10
+      }
+    ]
+  }
+]

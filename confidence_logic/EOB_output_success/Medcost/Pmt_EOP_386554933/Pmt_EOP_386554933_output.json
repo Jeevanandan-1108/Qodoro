@@ -1,0 +1,131 @@
+[
+  {
+    "eob_id": "386554933",
+    "claim_status": "not denied",
+    "payor": "MEDCOST BENEFIT SERVICES",
+    "confidence_score": 99.0,
+    "patients": [
+      {
+        "patient_name": "DAVID A WILLIAMS",
+        "provider": "DUC TANG D.D.S",
+        "services": [
+          {
+            "service_date": "01/10/23",
+            "service_code": "D0150",
+            "total_charge": "112.34",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$112.34"
+          },
+          {
+            "service_date": "01/10/23",
+            "service_code": "D0274",
+            "total_charge": "84.57",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$84.57"
+          },
+          {
+            "service_date": "01/10/23",
+            "service_code": "D0220",
+            "total_charge": "39.13",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$39.13"
+          },
+          {
+            "service_date": "01/10/23",
+            "service_code": "D0230",
+            "total_charge": "32.83",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.34",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$32.49"
+          },
+          {
+            "service_date": "01/10/23",
+            "service_code": "D1110",
+            "total_charge": "117.39",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$117.39"
+          }
+        ],
+        "totals": {
+          "total_charge": "386.26",
+          "in_network_adjustment": "0.00",
+          "not_covered": "0.34",
+          "deductible": "0.00",
+          "co_pay": "0.00",
+          "coinsurance": "0.00",
+          "plan_payment_amount": "$385.92",
+          "employee_paid_amount": "$0.00",
+          "total_payment": "$385.92",
+          "patient_responsibility": "$0.34"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "DAVID A WILLIAMS",
+        "provider": "DUC TANG D.D.S",
+        "services": [
+          {
+            "service_date": "05/15/23",
+            "service_code": "D0330",
+            "total_charge": "141.85",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$141.85"
+          },
+          {
+            "service_date": "05/15/23",
+            "service_code": "D1110",
+            "total_charge": "117.39",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$117.39"
+          }
+        ],
+        "totals": {
+          "total_charge": "259.24",
+          "in_network_adjustment": "0.00",
+          "not_covered": "0.00",
+          "deductible": "0.00",
+          "co_pay": "0.00",
+          "coinsurance": "0.00",
+          "plan_payment_amount": "$259.24",
+          "employee_paid_amount": "$0.00",
+          "total_payment": "$259.24",
+          "patient_responsibility": "$0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

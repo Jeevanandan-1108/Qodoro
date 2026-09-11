@@ -1,0 +1,239 @@
+[
+  {
+    "eob_id": "838537978",
+    "file_name": "Pmt_EOP_838537978.pdf",
+    "payor": "EMI Health",
+    "claim_status": "not denied",
+    "confidence_score": 97.0,
+    "patients": [
+      {
+        "patient_name": "Joel Hoffman",
+        "provider": "Alina Halusic",
+        "date_of_service": "02/18/2026",
+        "services": [
+          {
+            "proc_code": "D0150",
+            "billed": "139.00",
+            "allowed": "74.38",
+            "provider_discount": "0.00",
+            "not_covered": "64.62",
+            "deductible": "50.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "24.38"
+          },
+          {
+            "proc_code": "D0274",
+            "billed": "99.00",
+            "allowed": "53.09",
+            "provider_discount": "0.00",
+            "not_covered": "45.91",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "53.09"
+          },
+          {
+            "proc_code": "D0220",
+            "billed": "45.00",
+            "allowed": "24.78",
+            "provider_discount": "0.00",
+            "not_covered": "20.22",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "24.78"
+          },
+          {
+            "proc_code": "D0220",
+            "billed": "45.00",
+            "allowed": "24.78",
+            "provider_discount": "0.00",
+            "not_covered": "20.22",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "24.78"
+          }
+        ],
+        "totals": {
+          "billed": "328.00",
+          "allowed": "177.03",
+          "provider_discount": "0.00",
+          "not_covered": "150.97",
+          "deductible": "50.00",
+          "coinsurance": "0.00",
+          "copay": "0.00",
+          "payment": "127.03"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 4,
+        "_total_fields": 8,
+        "_model_confidence": 0.95
+      },
+      {
+        "patient_name": "Joel Hoffman",
+        "provider": "Alina Halusic",
+        "date_of_service": "02/18/2026",
+        "services": [
+          {
+            "proc_code": "D2335",
+            "billed": "445.00",
+            "allowed": "230.11",
+            "provider_discount": "0.00",
+            "not_covered": "214.89",
+            "deductible": "0.00",
+            "coinsurance": "46.02",
+            "copay": "0.00",
+            "payment": "184.09"
+          }
+        ],
+        "totals": {
+          "billed": "445.00",
+          "allowed": "230.11",
+          "provider_discount": "0.00",
+          "not_covered": "214.89",
+          "deductible": "0.00",
+          "coinsurance": "46.02",
+          "copay": "0.00",
+          "payment": "184.09"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 1,
+        "_total_fields": 8,
+        "_model_confidence": 0.99
+      },
+      {
+        "patient_name": "Joel Hoffman",
+        "provider": "Alina Halusic",
+        "date_of_service": "02/18/2026",
+        "services": [
+          {
+            "proc_code": "D4341",
+            "billed": "367.00",
+            "allowed": "0.00",
+            "provider_discount": "0.00",
+            "not_covered": "367.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "0.00"
+          },
+          {
+            "proc_code": "D4341",
+            "billed": "367.00",
+            "allowed": "0.00",
+            "provider_discount": "0.00",
+            "not_covered": "367.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "0.00"
+          }
+        ],
+        "totals": {
+          "billed": "734.00",
+          "allowed": "0.00",
+          "provider_discount": "0.00",
+          "not_covered": "734.00",
+          "deductible": "0.00",
+          "coinsurance": "0.00",
+          "copay": "0.00",
+          "payment": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 2,
+        "_total_fields": 8,
+        "_model_confidence": 0.95
+      },
+      {
+        "patient_name": "Meagan Dimitriou",
+        "provider": "Duc Tang",
+        "date_of_service": "07/30/2025",
+        "services": [
+          {
+            "proc_code": "D0274",
+            "billed": "99.00",
+            "allowed": "42.00",
+            "provider_discount": "0.00",
+            "not_covered": "57.00",
+            "deductible": "42.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "0.00"
+          },
+          {
+            "proc_code": "D1110",
+            "billed": "149.00",
+            "allowed": "63.00",
+            "provider_discount": "0.00",
+            "not_covered": "86.00",
+            "deductible": "58.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "5.00"
+          },
+          {
+            "proc_code": "D0120",
+            "billed": "89.00",
+            "allowed": "34.00",
+            "provider_discount": "0.00",
+            "not_covered": "55.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "34.00"
+          },
+          {
+            "proc_code": "D0220",
+            "billed": "45.00",
+            "allowed": "19.00",
+            "provider_discount": "0.00",
+            "not_covered": "26.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "19.00"
+          },
+          {
+            "proc_code": "D0230",
+            "billed": "37.00",
+            "allowed": "15.00",
+            "provider_discount": "0.00",
+            "not_covered": "22.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "15.00"
+          }
+        ],
+        "totals": {
+          "billed": "419.00",
+          "allowed": "173.00",
+          "provider_discount": "0.00",
+          "not_covered": "246.00",
+          "deductible": "100.00",
+          "coinsurance": "0.00",
+          "copay": "0.00",
+          "payment": "73.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 5,
+        "_total_fields": 8,
+        "_model_confidence": 0.99
+      }
+    ]
+  }
+]

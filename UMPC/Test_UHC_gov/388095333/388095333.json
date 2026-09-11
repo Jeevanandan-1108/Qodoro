@@ -1,0 +1,99 @@
+[
+  {
+    "file_name": "388095333.pdf",
+    "provider_name": "Duc Tang",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "ANTONOPOULOS, GEORGE",
+        "dob": "12/09/1957",
+        "services": [
+          {
+            "item": "1",
+            "dos": "05/18/23",
+            "code": "D2740",
+            "billed_amount": "$873.00",
+            "allowed_amount": "$0.00",
+            "disallow_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00",
+            "exc_code": "1098",
+            "denial_status": "Denied",
+            "denial_reason": "1098 - Service Authorization Denied"
+          },
+          {
+            "item": "2",
+            "dos": "05/18/23",
+            "code": "D0220",
+            "billed_amount": "$22.00",
+            "allowed_amount": "$22.00",
+            "disallow_amount": "$22.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$22.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$22.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$22.00",
+          "total_billed_amount": "$895.00",
+          "total_allowed_amount": "$22.00"
+        }
+      },
+      {
+        "patient_name": "ANTONOPOULOS, GEORGE",
+        "dob": "12/09/1957",
+        "services": [
+          {
+            "item": "1",
+            "dos": "05/18/23",
+            "code": "D4342",
+            "billed_amount": "$114.00",
+            "allowed_amount": "$114.00",
+            "disallow_amount": "$114.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$114.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$114.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$114.00",
+          "total_billed_amount": "$114.00",
+          "total_allowed_amount": "$114.00"
+        }
+      }
+    ]
+  }
+]

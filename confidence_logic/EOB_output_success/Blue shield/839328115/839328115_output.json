@@ -1,0 +1,45 @@
+[
+  {
+    "eob_id": "839328115",
+    "file_name": "Pmt_EOP_839328115.pdf",
+    "claim_status": "not denied",
+    "payor": "Blue Cross Blue Shield of North Carolina",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "DELONG, CHRIS A",
+        "provider": "DUC TANG DDS PLLC",
+        "date_of_service": "12/18/2025",
+        "services": [
+          {
+            "service_code": "D1110",
+            "billed_charges": "$149.00",
+            "contracted_charges": "$95.00",
+            "disallowed_charges": "$54.00",
+            "deductible_charges": "$0.00",
+            "copay_coins_amount": "$0.00",
+            "remaining_member_expense": "$0.00",
+            "amount_paid": "$95.00"
+          },
+          {
+            "service_code": "D0120",
+            "billed_charges": "$89.00",
+            "contracted_charges": "$53.00",
+            "disallowed_charges": "$36.00",
+            "deductible_charges": "$0.00",
+            "copay_coins_amount": "$35.00",
+            "remaining_member_expense": "$35.00",
+            "amount_paid": "$18.00"
+          }
+        ],
+        "totals": {
+          "amount_paid": "$113.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

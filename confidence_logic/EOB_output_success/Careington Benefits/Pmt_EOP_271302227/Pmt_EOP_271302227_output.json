@@ -1,0 +1,75 @@
+[
+  {
+    "eob_id": "Pmt_EOP_271302227",
+    "file_name": "Pmt_EOP_271302227.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "CHARLOTTE DEBOER",
+        "date_of_service": "08/02/2022",
+        "services": [
+          {
+            "procedure_code": "D7140",
+            "total_charge": "$155.00",
+            "plan_allowed_amount": "$143.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$62.05",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$92.95",
+            "patient_responsibility": "$50.05"
+          },
+          {
+            "procedure_code": "D7140",
+            "total_charge": "$155.00",
+            "plan_allowed_amount": "$143.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$62.05",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$92.95",
+            "patient_responsibility": "$50.05"
+          },
+          {
+            "procedure_code": "D7140",
+            "total_charge": "$155.00",
+            "plan_allowed_amount": "$143.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$62.05",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$92.95",
+            "patient_responsibility": "$50.05"
+          },
+          {
+            "procedure_code": "D7140",
+            "total_charge": "$155.00",
+            "plan_allowed_amount": "$143.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$62.05",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$92.95",
+            "patient_responsibility": "$50.05"
+          }
+        ],
+        "totals": {
+          "total_charge": "$620.00",
+          "plan_allowed_amount": "$572.00",
+          "deductible_amount": "$0.00",
+          "ineligible_amount": "$248.20",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$371.80",
+          "patient_responsibility": "$200.20"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

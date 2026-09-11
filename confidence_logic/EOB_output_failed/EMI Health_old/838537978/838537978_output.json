@@ -1,0 +1,86 @@
+[
+  {
+    "eob_id": "838537978",
+    "file_name": "Pmt_EOP_838537978.pdf",
+    "payor": "EMI Health",
+    "claim_status": "not denied",
+    "confidence_score": 98.0,
+    "patients": [
+      {
+        "patient_name": "Joel Hoffman",
+        "provider": "Alina Halusic",
+        "date_of_service": "02/18/2026",
+        "services": [
+          {
+            "proc_code": "D2335",
+            "billed": "445.00",
+            "allowed": "230.11",
+            "provider_discount": "0.00",
+            "not_covered": "214.89",
+            "deductible": "0.00",
+            "coinsurance": "46.02",
+            "copay": "0.00",
+            "payment": "184.09"
+          },
+          {
+            "proc_code": "D2335",
+            "billed": "445.00",
+            "allowed": "230.11",
+            "provider_discount": "0.00",
+            "not_covered": "214.89",
+            "deductible": "0.00",
+            "coinsurance": "46.02",
+            "copay": "0.00",
+            "payment": "184.09"
+          }
+        ],
+        "totals": {
+          "billed": "445.00",
+          "allowed": "230.11",
+          "provider_discount": "0.00",
+          "not_covered": "214.89",
+          "deductible": "0.00",
+          "coinsurance": "46.02",
+          "copay": "0.00",
+          "payment": "184.09"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed",
+              "computed": 890.0,
+              "extracted": 445.0
+            },
+            {
+              "field": "allowed",
+              "computed": 460.22,
+              "extracted": 230.11
+            },
+            {
+              "field": "not_covered",
+              "computed": 429.78,
+              "extracted": 214.89
+            },
+            {
+              "field": "coinsurance",
+              "computed": 92.04,
+              "extracted": 46.02
+            },
+            {
+              "field": "payment",
+              "computed": 368.18,
+              "extracted": 184.09
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        },
+        "_expected_rows": 1,
+        "_total_fields": 8,
+        "_model_confidence": 0.99
+      }
+    ]
+  }
+]

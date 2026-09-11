@@ -1,0 +1,69 @@
+[
+  {
+    "eob_id": "837701591",
+    "payor": "Metlife",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "pdf_file": "Pmt_EOP_837701591.pdf",
+    "patients": [
+      {
+        "patient_name": "MADAN MOHAN POLAM",
+        "relationship": "Self",
+        "dob": "",
+        "date_of_service": "02/25/26",
+        "services": [
+          {
+            "service_code": "D0150",
+            "submitted_amount": "139.00",
+            "allowed_amount": "66.00",
+            "paid_amount": "66.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          },
+          {
+            "service_code": "D0220",
+            "submitted_amount": "45.00",
+            "allowed_amount": "24.00",
+            "paid_amount": "24.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          },
+          {
+            "service_code": "D0230",
+            "submitted_amount": "37.00",
+            "allowed_amount": "20.00",
+            "paid_amount": "20.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          },
+          {
+            "service_code": "D0274",
+            "submitted_amount": "99.00",
+            "allowed_amount": "51.00",
+            "paid_amount": "51.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          },
+          {
+            "service_code": "D1110",
+            "submitted_amount": "149.00",
+            "allowed_amount": "82.00",
+            "paid_amount": "82.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          }
+        ],
+        "totals": {
+          "total_submitted": "469.00",
+          "total_allowed": "243.00",
+          "total_paid": "243.00",
+          "total_patient_owes": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

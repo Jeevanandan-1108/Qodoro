@@ -1,0 +1,188 @@
+[
+  {
+    "file_name": "$122.00.pdf",
+    "provider_name": "Kaushal Patel",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "ABREU RUIZ, ANGEL",
+        "dob": "05/01/1966",
+        "services": [],
+        "totals": {
+          "total_disallow_amount": "$250.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00",
+          "total_billed_amount": "$250.00",
+          "total_allowed_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "SANTOS, MARIA",
+        "dob": "03/25/1945",
+        "services": [
+          {
+            "item": "1",
+            "dos": "05/29/26",
+            "code": "D0120",
+            "billed_amount": "$62.00",
+            "allowed_amount": "$20.00",
+            "disallow_amount": "$42.00",
+            "payable_amount": "$20.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$20.00",
+            "exc_code": "CO45",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "05/29/26",
+            "code": "D0272",
+            "billed_amount": "$61.00",
+            "allowed_amount": "$16.00",
+            "disallow_amount": "$45.00",
+            "payable_amount": "$16.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$16.00",
+            "exc_code": "CO45",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "dos": "05/29/26",
+            "code": "D1110",
+            "billed_amount": "$107.00",
+            "allowed_amount": "$34.00",
+            "disallow_amount": "$73.00",
+            "payable_amount": "$34.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$34.00",
+            "exc_code": "CO45",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "4",
+            "dos": "05/29/26",
+            "code": "D1310",
+            "billed_amount": "$36.00",
+            "allowed_amount": "$8.00",
+            "disallow_amount": "$28.00",
+            "payable_amount": "$8.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$8.00",
+            "exc_code": "1039",
+            "denial_status": "Denied",
+            "denial_reason": "1039 - Service Not a Covered Benefit. (PR204 N130)"
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$238.00",
+          "total_payable_amount": "$78.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$78.00",
+          "total_billed_amount": "$316.00",
+          "total_allowed_amount": "$78.00"
+        }
+      },
+      {
+        "patient_name": "VARGAS, INNOCENSIA",
+        "dob": "01/20/1951",
+        "services": [
+          {
+            "item": "1",
+            "dos": "05/29/26",
+            "code": "D0120",
+            "billed_amount": "$62.00",
+            "allowed_amount": "$20.00",
+            "disallow_amount": "$42.00",
+            "payable_amount": "$20.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$20.00",
+            "exc_code": "CO45",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "05/29/26",
+            "code": "D0272",
+            "billed_amount": "$61.00",
+            "allowed_amount": "$16.00",
+            "disallow_amount": "$45.00",
+            "payable_amount": "$16.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$16.00",
+            "exc_code": "CO45",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "dos": "05/29/26",
+            "code": "D0220",
+            "billed_amount": "$36.00",
+            "allowed_amount": "$8.00",
+            "disallow_amount": "$28.00",
+            "payable_amount": "$8.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$8.00",
+            "exc_code": "CO45",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_disallow_amount": "$115.00",
+          "total_payable_amount": "$44.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$44.00",
+          "total_billed_amount": "$159.00",
+          "total_allowed_amount": "$44.00"
+        }
+      }
+    ]
+  }
+]

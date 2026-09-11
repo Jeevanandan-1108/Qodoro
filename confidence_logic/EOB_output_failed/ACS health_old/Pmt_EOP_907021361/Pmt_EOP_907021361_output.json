@@ -1,0 +1,350 @@
+[
+  {
+    "eob_id": "Pmt_EOP_907021361",
+    "file_name": "Pmt_EOP_907021361.pdf",
+    "claim_status": "not denied",
+    "payor": "Dental Blue",
+    "confidence_score": 99.6,
+    "patients": [
+      {
+        "patient_name": "Padmavathi Vadrevu",
+        "date_of_service": "11/06/25",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "367.00",
+            "allowed_amount": "265.00",
+            "deductible": "50.00",
+            "copay": "0.00",
+            "coinsurance": "43.00",
+            "ineligible": "0.00",
+            "discount_amount": "102.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "172.00"
+          },
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "367.00",
+            "allowed_amount": "265.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "53.00",
+            "ineligible": "0.00",
+            "discount_amount": "102.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "212.00"
+          },
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "734.00",
+            "allowed_amount": "530.00",
+            "deductible": "50.00",
+            "copay": "0.00",
+            "coinsurance": "96.00",
+            "ineligible": "0.00",
+            "discount_amount": "204.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "384.00"
+          }
+        ],
+        "totals": {
+          "provider": "",
+          "billed_amount": "734.00",
+          "allowed_amount": "530.00",
+          "deductible": "50.00",
+          "copay": "0.00",
+          "coinsurance": "96.00",
+          "ineligible": "0.00",
+          "discount_amount": "204.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "384.00"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed_amount",
+              "computed": 1468.0,
+              "extracted": 734.0
+            },
+            {
+              "field": "allowed_amount",
+              "computed": 1060.0,
+              "extracted": 530.0
+            },
+            {
+              "field": "deductible",
+              "computed": 100.0,
+              "extracted": 50.0
+            },
+            {
+              "field": "coinsurance",
+              "computed": 192.0,
+              "extracted": 96.0
+            },
+            {
+              "field": "discount_amount",
+              "computed": 408.0,
+              "extracted": 204.0
+            },
+            {
+              "field": "net_payment_amount",
+              "computed": 768.0,
+              "extracted": 384.0
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        }
+      },
+      {
+        "patient_name": "Ellis G Hunter",
+        "date_of_service": "06/09/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D2392",
+            "billed_amount": "357.00",
+            "allowed_amount": "237.00",
+            "deductible": "75.00",
+            "copay": "0.00",
+            "coinsurance": "48.60",
+            "ineligible": "0.00",
+            "discount_amount": "120.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "113.40"
+          },
+          {
+            "procedure_code": "D2392",
+            "billed_amount": "357.00",
+            "allowed_amount": "237.00",
+            "deductible": "75.00",
+            "copay": "0.00",
+            "coinsurance": "48.60",
+            "ineligible": "0.00",
+            "discount_amount": "120.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "113.40"
+          }
+        ],
+        "totals": {
+          "provider": "",
+          "billed_amount": "357.00",
+          "allowed_amount": "237.00",
+          "deductible": "75.00",
+          "copay": "0.00",
+          "coinsurance": "48.60",
+          "ineligible": "0.00",
+          "discount_amount": "120.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "113.40"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed_amount",
+              "computed": 714.0,
+              "extracted": 357.0
+            },
+            {
+              "field": "allowed_amount",
+              "computed": 474.0,
+              "extracted": 237.0
+            },
+            {
+              "field": "deductible",
+              "computed": 150.0,
+              "extracted": 75.0
+            },
+            {
+              "field": "coinsurance",
+              "computed": 97.2,
+              "extracted": 48.6
+            },
+            {
+              "field": "discount_amount",
+              "computed": 240.0,
+              "extracted": 120.0
+            },
+            {
+              "field": "net_payment_amount",
+              "computed": 226.8,
+              "extracted": 113.4
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        }
+      },
+      {
+        "patient_name": "Ellis G Hunter",
+        "date_of_service": "06/11/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D2391",
+            "billed_amount": "287.00",
+            "allowed_amount": "183.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "54.90",
+            "ineligible": "0.00",
+            "discount_amount": "104.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "128.10"
+          },
+          {
+            "procedure_code": "D2391",
+            "billed_amount": "287.00",
+            "allowed_amount": "183.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "54.90",
+            "ineligible": "0.00",
+            "discount_amount": "104.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "128.10"
+          }
+        ],
+        "totals": {
+          "provider": "",
+          "billed_amount": "287.00",
+          "allowed_amount": "183.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "54.90",
+          "ineligible": "0.00",
+          "discount_amount": "104.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "128.10"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed_amount",
+              "computed": 574.0,
+              "extracted": 287.0
+            },
+            {
+              "field": "allowed_amount",
+              "computed": 366.0,
+              "extracted": 183.0
+            },
+            {
+              "field": "coinsurance",
+              "computed": 109.8,
+              "extracted": 54.9
+            },
+            {
+              "field": "discount_amount",
+              "computed": 208.0,
+              "extracted": 104.0
+            },
+            {
+              "field": "net_payment_amount",
+              "computed": 256.2,
+              "extracted": 128.1
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        }
+      },
+      {
+        "patient_name": "Ellis G Hunter",
+        "date_of_service": "06/11/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D2392",
+            "billed_amount": "357.00",
+            "allowed_amount": "237.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "71.10",
+            "ineligible": "0.00",
+            "discount_amount": "120.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "165.90"
+          },
+          {
+            "procedure_code": "D2392",
+            "billed_amount": "357.00",
+            "allowed_amount": "237.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "71.10",
+            "ineligible": "0.00",
+            "discount_amount": "120.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "165.90"
+          }
+        ],
+        "totals": {
+          "provider": "",
+          "billed_amount": "357.00",
+          "allowed_amount": "237.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "71.10",
+          "ineligible": "0.00",
+          "discount_amount": "120.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "165.90"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed_amount",
+              "computed": 714.0,
+              "extracted": 357.0
+            },
+            {
+              "field": "allowed_amount",
+              "computed": 474.0,
+              "extracted": 237.0
+            },
+            {
+              "field": "coinsurance",
+              "computed": 142.2,
+              "extracted": 71.1
+            },
+            {
+              "field": "discount_amount",
+              "computed": 240.0,
+              "extracted": 120.0
+            },
+            {
+              "field": "net_payment_amount",
+              "computed": 331.8,
+              "extracted": 165.9
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

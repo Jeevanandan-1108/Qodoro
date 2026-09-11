@@ -1,0 +1,72 @@
+[
+  {
+    "eob_id": "267884082",
+    "claim_status": "not denied",
+    "payor": "Delta Dental - Moda",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "John Patrick Linner",
+        "provider": "Duc Tang DDS",
+        "date_of_service": "08/04/22",
+        "services": [
+          {
+            "procedure_code": "D0120",
+            "total_charge": "65.63",
+            "non_covered_charges": "0.00",
+            "deductible": "0.00",
+            "provider_discount": "30.63",
+            "provider_withhold": "0.00",
+            "remaining_covered_charges": "35.00",
+            "copay_coinsurance": "0.00",
+            "patient_responsibility": "0.00",
+            "total_benefit": "35.00",
+            "benefit_paid_to_provider": "35.00"
+          },
+          {
+            "procedure_code": "D1110",
+            "total_charge": "117.39",
+            "non_covered_charges": "0.00",
+            "deductible": "0.00",
+            "provider_discount": "50.39",
+            "provider_withhold": "0.00",
+            "remaining_covered_charges": "67.00",
+            "copay_coinsurance": "0.00",
+            "patient_responsibility": "0.00",
+            "total_benefit": "67.00",
+            "benefit_paid_to_provider": "67.00"
+          },
+          {
+            "procedure_code": "D1206",
+            "total_charge": "53.08",
+            "non_covered_charges": "0.00",
+            "deductible": "0.00",
+            "provider_discount": "24.08",
+            "provider_withhold": "0.00",
+            "remaining_covered_charges": "29.00",
+            "copay_coinsurance": "0.00",
+            "patient_responsibility": "0.00",
+            "total_benefit": "29.00",
+            "benefit_paid_to_provider": "29.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "236.10",
+          "non_covered_charges": "0.00",
+          "deductible": "0.00",
+          "provider_discount": "105.10",
+          "provider_withhold": "0.00",
+          "remaining_covered_charges": "131.00",
+          "copay_coinsurance": "0.00",
+          "patient_responsibility": "0.00",
+          "total_benefit": "131.00",
+          "benefit_paid_to_provider": "131.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

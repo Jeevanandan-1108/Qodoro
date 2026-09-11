@@ -1,0 +1,71 @@
+[
+  {
+    "eob_id": "356069614",
+    "file_name": "Pmt_EOP_356069614.pdf",
+    "payor": "Blue Cross and Blue Shield of Texas",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "HEYWARD,FRANCIS",
+        "date_of_service": "05/15/23",
+        "services": [
+          {
+            "service_code": "D0140",
+            "amount_billed": "58.00",
+            "discounts_and_reductions": "13.00",
+            "allowed_amount": "45.00",
+            "dental_plan_responsibility": "45.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0220",
+            "amount_billed": "17.00",
+            "discounts_and_reductions": "0.00",
+            "allowed_amount": "17.00",
+            "dental_plan_responsibility": "17.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0230",
+            "amount_billed": "13.00",
+            "discounts_and_reductions": "0.00",
+            "allowed_amount": "13.00",
+            "dental_plan_responsibility": "13.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          }
+        ],
+        "totals": {
+          "amount_billed": "88.00",
+          "discounts_and_reductions": "13.00",
+          "allowed_amount": "75.00",
+          "dental_plan_responsibility": "75.00",
+          "deductible_amount": "0.00",
+          "copay_amount": "0.00",
+          "coinsurance": "0.00",
+          "amount_not_covered": "0.00",
+          "patient_costs": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 3,
+        "_total_fields": 9,
+        "_model_confidence": 1.0
+      }
+    ]
+  }
+]

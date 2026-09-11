@@ -1,0 +1,112 @@
+[
+  {
+    "eob_id": "37232651",
+    "file_name": "37232651.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "BARDI, DAVID",
+        "claim_number": "202619705039900",
+        "dob": "02/15/1984",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D2393",
+            "paid_code": "D2393",
+            "tooth": "12 MDB",
+            "description": "resin-based composite - three surfaces, posterior",
+            "dos": "07/15/26",
+            "submitted_amount": "$250.00",
+            "approved_amount": "$65.00",
+            "allowed_amount": "$65.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$185.00",
+            "plan_pay": "$65.00",
+            "exc_code": "2052",
+            "denial_reason_detail": null,
+            "denial_status": "Denied",
+            "denial_reason_general": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D2393",
+            "paid_code": "D2393",
+            "tooth": "13 MDB",
+            "description": "resin-based composite - three surfaces, posterior",
+            "dos": "07/15/26",
+            "submitted_amount": "$250.00",
+            "approved_amount": "$65.00",
+            "allowed_amount": "$65.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$185.00",
+            "plan_pay": "$65.00",
+            "exc_code": "2052",
+            "denial_reason_detail": null,
+            "denial_status": "Denied",
+            "denial_reason_general": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$500.00",
+          "total_approved_amount": "$130.00",
+          "total_allowed_amount": "$130.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$370.00",
+          "total_plan_pay": "$130.00"
+        }
+      },
+      {
+        "patient_name": "RODRIGUEZ, GLENIZ",
+        "claim_number": "202619605028200",
+        "dob": "11/23/1983",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D4910",
+            "paid_code": "D4910",
+            "tooth": null,
+            "description": "periodontal maintenance",
+            "dos": "07/14/26",
+            "submitted_amount": "$150.00",
+            "approved_amount": "$44.00",
+            "allowed_amount": "$44.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$106.00",
+            "plan_pay": "$44.00",
+            "exc_code": "2052",
+            "denial_reason_detail": null,
+            "denial_status": "Denied",
+            "denial_reason_general": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$150.00",
+          "total_approved_amount": "$44.00",
+          "total_allowed_amount": "$44.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$106.00",
+          "total_plan_pay": "$44.00"
+        }
+      }
+    ]
+  }
+]

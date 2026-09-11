@@ -1,0 +1,45 @@
+[
+  {
+    "eob_id": "838363707",
+    "payor": "Metlife",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "pdf_file": "Pmt_EOP_838363707.pdf",
+    "patients": [
+      {
+        "patient_name": "ISAAC PRICE",
+        "relationship": "Self",
+        "dob": "",
+        "date_of_service": "02/26/26",
+        "services": [
+          {
+            "service_code": "D0120",
+            "submitted_amount": "89.00",
+            "allowed_amount": "41.00",
+            "paid_amount": "41.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          },
+          {
+            "service_code": "D1110",
+            "submitted_amount": "149.00",
+            "allowed_amount": "82.00",
+            "paid_amount": "82.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          }
+        ],
+        "totals": {
+          "total_submitted": "238.00",
+          "total_allowed": "123.00",
+          "total_paid": "123.00",
+          "total_patient_owes": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

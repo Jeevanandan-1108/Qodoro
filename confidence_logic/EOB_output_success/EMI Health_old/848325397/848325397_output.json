@@ -1,0 +1,89 @@
+[
+  {
+    "eob_id": "848325397",
+    "payor": "EMI Health",
+    "claim_status": "not denied",
+    "confidence_score": 99.0,
+    "patients": [
+      {
+        "patient_name": "Kara West",
+        "provider": "Duc Tang",
+        "date_of_service": "03/05/2026",
+        "services": [
+          {
+            "proc_code": "D0150",
+            "billed": "148.00",
+            "allowed": "53.00",
+            "provider_discount": "0.00",
+            "not_covered": "95.00",
+            "deductible": "53.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "0.00"
+          },
+          {
+            "proc_code": "D0274",
+            "billed": "104.00",
+            "allowed": "42.00",
+            "provider_discount": "0.00",
+            "not_covered": "62.00",
+            "deductible": "42.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "0.00"
+          },
+          {
+            "proc_code": "D0220",
+            "billed": "49.00",
+            "allowed": "19.00",
+            "provider_discount": "0.00",
+            "not_covered": "30.00",
+            "deductible": "5.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "14.00"
+          },
+          {
+            "proc_code": "D0230",
+            "billed": "40.00",
+            "allowed": "15.00",
+            "provider_discount": "0.00",
+            "not_covered": "25.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "15.00"
+          },
+          {
+            "proc_code": "D1110",
+            "billed": "159.00",
+            "allowed": "63.00",
+            "provider_discount": "0.00",
+            "not_covered": "96.00",
+            "deductible": "0.00",
+            "coinsurance": "0.00",
+            "copay": "0.00",
+            "payment": "63.00"
+          }
+        ],
+        "totals": {
+          "billed": "500.00",
+          "allowed": "192.00",
+          "provider_discount": "0.00",
+          "not_covered": "308.00",
+          "deductible": "100.00",
+          "coinsurance": "0.00",
+          "copay": "0.00",
+          "payment": "92.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 5,
+        "_total_fields": 8,
+        "_model_confidence": 0.99
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "eob_id": "270721701",
+    "file_name": "Pmt_EOP_270721701.pdf",
+    "claim_status": "not denied",
+    "payor": "Sunlife",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "CARLOS FOSTER",
+        "provider": "DUC TANG",
+        "relationship": "Member",
+        "dob": "",
+        "services": [
+          {
+            "service_date": "08/11/22",
+            "procedure_code": "D4910",
+            "submitted_charges": "113.00",
+            "allowed_amount": "113.00",
+            "deductible": "0.00",
+            "ppo_savings": "0.00",
+            "patient_responsibility": "22.60",
+            "plan_payment": "90.40"
+          },
+          {
+            "service_date": "08/11/22",
+            "procedure_code": "D0120",
+            "submitted_charges": "40.00",
+            "allowed_amount": "40.00",
+            "deductible": "0.00",
+            "ppo_savings": "0.00",
+            "patient_responsibility": "0.00",
+            "plan_payment": "40.00"
+          }
+        ],
+        "totals": {
+          "submitted_charges": "153.00",
+          "allowed_amount": "153.00",
+          "deductible": "0.00",
+          "ppo_savings": "0.00",
+          "patient_responsibility": "22.60",
+          "plan_payment": "130.40"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

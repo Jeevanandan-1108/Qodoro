@@ -1,0 +1,86 @@
+[
+  {
+    "eob_id": "824388491",
+    "claim_status": "Not Denied",
+    "payor": "UNITED HEALTHCARE",
+    "confidence_score": 99.0,
+    "patients": [
+      {
+        "patient_name": "NGO, DUONG",
+        "provider": "DUC TANG",
+        "date_of_service": "01/30/26",
+        "services": [
+          {
+            "procedure_code": "D0274",
+            "amount_claimed": "99.00",
+            "amount_allowed": "57.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "57.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "amount_claimed": "37.00",
+            "amount_allowed": "20.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "20.00"
+          },
+          {
+            "procedure_code": "D0150",
+            "amount_claimed": "139.00",
+            "amount_allowed": "73.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "73.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "amount_claimed": "45.00",
+            "amount_allowed": "25.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "25.00"
+          },
+          {
+            "procedure_code": "D4341",
+            "amount_claimed": "367.00",
+            "amount_allowed": "237.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "118.50",
+            "amount_paid": "118.50"
+          },
+          {
+            "procedure_code": "D4341",
+            "amount_claimed": "367.00",
+            "amount_allowed": "237.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "118.50",
+            "amount_paid": "118.50"
+          }
+        ],
+        "totals": {
+          "amount_claimed": "$1,054.00",
+          "amount_allowed": "$649.00",
+          "deduct_applied": "$0.00",
+          "other_ins": "$0.00",
+          "patient_resp": "$237.00",
+          "amount_paid": "$412.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 6,
+        "_total_fields": 6,
+        "_model_confidence": 0.99
+      }
+    ]
+  }
+]

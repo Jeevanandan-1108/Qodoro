@@ -1,0 +1,66 @@
+[
+  {
+    "eob_id": "889240221",
+    "file_name": "Pmt_EOP_889240221.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "Generated_CDT_code": true,
+    "payor": "Bestlife",
+    "patients": [
+      {
+        "patient_name": "Thi Tran",
+        "relationship": "MEMBER",
+        "services": [
+          {
+            "service_date": "05/04/2026",
+            "total_charge": "148.00",
+            "not_covered": "0.00",
+            "provider_discount": "82.00",
+            "deductible_copay": "0.00",
+            "balance": "66.00",
+            "Benefit": "66.00"
+          },
+          {
+            "service_date": "05/04/2026",
+            "total_charge": "104.00",
+            "not_covered": "0.00",
+            "provider_discount": "58.00",
+            "deductible_copay": "0.00",
+            "balance": "46.00",
+            "Benefit": "46.00"
+          },
+          {
+            "service_date": "05/04/2026",
+            "total_charge": "49.00",
+            "not_covered": "0.00",
+            "provider_discount": "30.00",
+            "deductible_copay": "0.00",
+            "balance": "19.00",
+            "Benefit": "19.00"
+          },
+          {
+            "service_date": "05/04/2026",
+            "total_charge": "40.00",
+            "not_covered": "0.00",
+            "provider_discount": "25.00",
+            "deductible_copay": "0.00",
+            "balance": "15.00",
+            "Benefit": "15.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "341.00",
+          "not_covered": "0.00",
+          "provider_discount": "195.00",
+          "deductible_copay": "0.00",
+          "balance": "146.00",
+          "Benefit": "146.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

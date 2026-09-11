@@ -1,0 +1,455 @@
+[
+  {
+    "eob_id": "850396697",
+    "file_name": "Pmt_EOP_850396697.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "SURENDRA PRASAD, SOMESHWARAN",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "2015-02-20",
+        "services": [
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1206",
+            "billed_amount": "64.00",
+            "ppo_discount": "16.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "48.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0150",
+            "billed_amount": "148.00",
+            "ppo_discount": "61.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "87.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1120",
+            "billed_amount": "159.00",
+            "ppo_discount": "89.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "70.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "475.00",
+          "ppo_discount": "203.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "272.00"
+        },
+        "page_number": 1,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "DHANAKOTTI, PRAMILA",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "1985-08-25",
+        "services": [
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0230",
+            "billed_amount": "40.00",
+            "ppo_discount": "17.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1110",
+            "billed_amount": "159.00",
+            "ppo_discount": "64.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0120",
+            "billed_amount": "95.00",
+            "ppo_discount": "42.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "447.00",
+          "ppo_discount": "179.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "268.00"
+        },
+        "page_number": 3,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "NARAYANASWAMY, SURENDRA PRA",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "1981-09-24",
+        "services": [
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1110",
+            "billed_amount": "159.00",
+            "ppo_discount": "64.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0230",
+            "billed_amount": "40.00",
+            "ppo_discount": "17.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0120",
+            "billed_amount": "95.00",
+            "ppo_discount": "42.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "447.00",
+          "ppo_discount": "179.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "268.00"
+        },
+        "page_number": 5,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "SURENDRAPRASAD N, MAHESHWARI",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "2010-07-15",
+        "services": [
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1206",
+            "billed_amount": "64.00",
+            "ppo_discount": "16.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "48.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1110",
+            "billed_amount": "159.00",
+            "ppo_discount": "64.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0230",
+            "billed_amount": "40.00",
+            "ppo_discount": "17.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0150",
+            "billed_amount": "148.00",
+            "ppo_discount": "61.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "87.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "564.00",
+          "ppo_discount": "214.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "350.00"
+        },
+        "page_number": 7,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "WAGNER, CAYLAH",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "1999-10-25",
+        "services": [
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0150",
+            "billed_amount": "148.00",
+            "ppo_discount": "61.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "87.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0230",
+            "billed_amount": "40.00",
+            "ppo_discount": "17.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D4342",
+            "billed_amount": "291.00",
+            "ppo_discount": "113.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "75.60",
+            "patient_responsibility": "0.00",
+            "paid_amount": "102.40"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D4342",
+            "billed_amount": "291.00",
+            "ppo_discount": "113.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "35.60",
+            "patient_responsibility": "0.00",
+            "paid_amount": "142.40"
+          }
+        ],
+        "totals": {
+          "billed_amount": "923.00",
+          "ppo_discount": "360.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "111.20",
+          "patient_responsibility": "0.00",
+          "paid_amount": "451.80"
+        },
+        "page_number": 9,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "DESALVO, KIMBERLY",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "1974-01-13",
+        "services": [
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1110",
+            "billed_amount": "159.00",
+            "ppo_discount": "64.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D1206",
+            "billed_amount": "64.00",
+            "ppo_discount": "0.00",
+            "non_covered": "64.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "64.00",
+            "paid_amount": "0.00"
+          },
+          {
+            "date_of_service": "03/13/26",
+            "service_code": "D0120",
+            "billed_amount": "95.00",
+            "ppo_discount": "42.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "318.00",
+          "ppo_discount": "106.00",
+          "non_covered": "64.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "64.00",
+          "paid_amount": "148.00"
+        },
+        "page_number": 11,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

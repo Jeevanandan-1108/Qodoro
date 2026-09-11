@@ -1,0 +1,291 @@
+[
+  {
+    "eob_id": "846091932",
+    "file_name": "Pmt_EOP_846091932.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "OF PARTIAL LIGHT, PARKER",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "2011-09-29",
+        "services": [
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0120",
+            "billed_amount": "95.00",
+            "ppo_discount": "42.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D1110",
+            "billed_amount": "159.00",
+            "ppo_discount": "64.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0230",
+            "billed_amount": "40.00",
+            "ppo_discount": "17.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D1206",
+            "billed_amount": "64.00",
+            "ppo_discount": "0.00",
+            "non_covered": "64.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "64.00",
+            "paid_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "511.00",
+          "ppo_discount": "179.00",
+          "non_covered": "64.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "64.00",
+          "paid_amount": "268.00"
+        },
+        "page_number": 1,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "LIGHT, PARKER",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "2011-09-29",
+        "services": [
+          {
+            "date_of_service": "03/05/26",
+            "service_code": "D2335",
+            "billed_amount": "469.00",
+            "ppo_discount": "170.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "99.80",
+            "patient_responsibility": "0.00",
+            "paid_amount": "199.20"
+          }
+        ],
+        "totals": {
+          "billed_amount": "469.00",
+          "ppo_discount": "170.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "99.80",
+          "patient_responsibility": "0.00",
+          "paid_amount": "199.20"
+        },
+        "page_number": 3,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "WINES, LISA",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "1961-01-23",
+        "services": [
+          {
+            "date_of_service": "03/04/26",
+            "service_code": "D5730",
+            "billed_amount": "517.00",
+            "ppo_discount": "186.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "66.20",
+            "patient_responsibility": "0.00",
+            "paid_amount": "264.80"
+          }
+        ],
+        "totals": {
+          "billed_amount": "517.00",
+          "ppo_discount": "186.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "66.20",
+          "patient_responsibility": "0.00",
+          "paid_amount": "264.80"
+        },
+        "page_number": 5,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "SMITH, MELISSA",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "1992-02-04",
+        "services": [
+          {
+            "date_of_service": "03/10/26",
+            "service_code": "D0120",
+            "billed_amount": "95.00",
+            "ppo_discount": "42.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          },
+          {
+            "date_of_service": "03/10/26",
+            "service_code": "D1110",
+            "billed_amount": "159.00",
+            "ppo_discount": "64.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          },
+          {
+            "date_of_service": "03/10/26",
+            "service_code": "D0274",
+            "billed_amount": "104.00",
+            "ppo_discount": "37.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "67.00"
+          },
+          {
+            "date_of_service": "03/10/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/10/26",
+            "service_code": "D0230",
+            "billed_amount": "40.00",
+            "ppo_discount": "17.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "447.00",
+          "ppo_discount": "179.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "268.00"
+        },
+        "page_number": 7,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "SADLER, JAMES",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "1958-10-01",
+        "services": [
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0140",
+            "billed_amount": "130.00",
+            "ppo_discount": "47.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "83.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0220",
+            "billed_amount": "49.00",
+            "ppo_discount": "19.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "30.00"
+          },
+          {
+            "date_of_service": "03/03/26",
+            "service_code": "D0270",
+            "billed_amount": "49.00",
+            "ppo_discount": "0.00",
+            "non_covered": "49.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "49.00",
+            "paid_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "228.00",
+          "ppo_discount": "66.00",
+          "non_covered": "49.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "49.00",
+          "paid_amount": "113.00"
+        },
+        "page_number": 9,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

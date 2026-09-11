@@ -1,0 +1,37 @@
+[
+  {
+    "eob_id": "837707897",
+    "payor": "Metlife",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "pdf_file": "Pmt_EOP_837707897.pdf",
+    "patients": [
+      {
+        "patient_name": "KEVIN CONLEY",
+        "relationship": "Self",
+        "dob": "",
+        "date_of_service": "02/13/26",
+        "services": [
+          {
+            "service_code": "D4341",
+            "submitted_amount": "367.00",
+            "allowed_amount": "189.00",
+            "paid_amount": "94.50",
+            "deductible": "",
+            "patient_owes": "94.50"
+          }
+        ],
+        "totals": {
+          "total_submitted": "367.00",
+          "total_allowed": "189.00",
+          "total_paid": "94.50",
+          "total_patient_owes": "94.50"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

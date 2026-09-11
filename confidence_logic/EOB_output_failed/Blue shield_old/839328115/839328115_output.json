@@ -1,0 +1,18 @@
+[
+  {
+    "eob_id": "839328115",
+    "file_name": "Pmt_EOP_839328115.pdf",
+    "claim_status": "not denied",
+    "payor": "Blue Cross Blue Shield of North Carolina",
+    "confidence_score": 0.0,
+    "patients": [
+      {
+        "page": 2,
+        "table": 1,
+        "status": "failed",
+        "image_path": "EOB_OUTPUT/Blue_shield/839328115/page_2_table_1.png",
+        "error": "name 'total_fields' is not defined"
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "eob_id": "376162433",
+    "file_name": "Pmt_EOP_376162433.pdf",
+    "payor": "Blue Cross and Blue Shield of Texas",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "PETRONIO,LUCA",
+        "date_of_service": "07/14/23",
+        "services": [
+          {
+            "service_code": "D0150",
+            "amount_billed": "87.00",
+            "discounts_and_reductions": "37.00",
+            "allowed_amount": "50.00",
+            "dental_plan_responsibility": "50.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1120",
+            "amount_billed": "70.00",
+            "discounts_and_reductions": "25.00",
+            "allowed_amount": "45.00",
+            "dental_plan_responsibility": "45.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1206",
+            "amount_billed": "48.00",
+            "discounts_and_reductions": "0.00",
+            "allowed_amount": "48.00",
+            "dental_plan_responsibility": "48.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0274",
+            "amount_billed": "67.00",
+            "discounts_and_reductions": "30.00",
+            "allowed_amount": "37.00",
+            "dental_plan_responsibility": "37.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0220",
+            "amount_billed": "30.00",
+            "discounts_and_reductions": "13.00",
+            "allowed_amount": "17.00",
+            "dental_plan_responsibility": "17.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0230",
+            "amount_billed": "23.00",
+            "discounts_and_reductions": "10.00",
+            "allowed_amount": "13.00",
+            "dental_plan_responsibility": "13.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          }
+        ],
+        "totals": {
+          "amount_billed": "325.00",
+          "discounts_and_reductions": "115.00",
+          "allowed_amount": "210.00",
+          "dental_plan_responsibility": "210.00",
+          "deductible_amount": "0.00",
+          "copay_amount": "0.00",
+          "coinsurance": "0.00",
+          "amount_not_covered": "0.00",
+          "patient_costs": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 6,
+        "_total_fields": 9,
+        "_model_confidence": 1.0
+      },
+      {
+        "patient_name": "PETRONIO,LAYLA",
+        "date_of_service": "07/14/23",
+        "services": [
+          {
+            "service_code": "D0120",
+            "amount_billed": "53.00",
+            "discounts_and_reductions": "24.00",
+            "allowed_amount": "29.00",
+            "dental_plan_responsibility": "29.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1120",
+            "amount_billed": "70.00",
+            "discounts_and_reductions": "25.00",
+            "allowed_amount": "45.00",
+            "dental_plan_responsibility": "45.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0274",
+            "amount_billed": "67.00",
+            "discounts_and_reductions": "30.00",
+            "allowed_amount": "37.00",
+            "dental_plan_responsibility": "37.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1351",
+            "amount_billed": "59.00",
+            "discounts_and_reductions": "19.00",
+            "allowed_amount": "40.00",
+            "dental_plan_responsibility": "40.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1351",
+            "amount_billed": "59.00",
+            "discounts_and_reductions": "19.00",
+            "allowed_amount": "40.00",
+            "dental_plan_responsibility": "40.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1351",
+            "amount_billed": "59.00",
+            "discounts_and_reductions": "19.00",
+            "allowed_amount": "40.00",
+            "dental_plan_responsibility": "40.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D1351",
+            "amount_billed": "59.00",
+            "discounts_and_reductions": "19.00",
+            "allowed_amount": "40.00",
+            "dental_plan_responsibility": "40.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          }
+        ],
+        "totals": {
+          "amount_billed": "426.00",
+          "discounts_and_reductions": "155.00",
+          "allowed_amount": "271.00",
+          "dental_plan_responsibility": "271.00",
+          "deductible_amount": "0.00",
+          "copay_amount": "0.00",
+          "coinsurance": "0.00",
+          "amount_not_covered": "0.00",
+          "patient_costs": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 7,
+        "_total_fields": 9,
+        "_model_confidence": 1.0
+      }
+    ]
+  }
+]

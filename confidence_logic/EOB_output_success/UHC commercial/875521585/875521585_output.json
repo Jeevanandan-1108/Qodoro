@@ -1,0 +1,149 @@
+[
+  {
+    "eob_id": "875521585",
+    "file_name": "875521585.pdf",
+    "claim_status": "Not Denied",
+    "payor": "UNITED HEALTHCARE",
+    "confidence_score": 99.0,
+    "patients": [
+      {
+        "patient_name": "",
+        "provider": "ALEX RAMOS",
+        "date_of_service": "04/23/26",
+        "services": [
+          {
+            "procedure_code": "D2391",
+            "amount_claimed": "287.00",
+            "amount_allowed": "156.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "19.00",
+            "amount_paid": "137.00"
+          },
+          {
+            "procedure_code": "D2391",
+            "amount_claimed": "287.00",
+            "amount_allowed": "156.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "19.00",
+            "amount_paid": "137.00"
+          },
+          {
+            "procedure_code": "D2391",
+            "amount_claimed": "287.00",
+            "amount_allowed": "156.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "19.00",
+            "amount_paid": "137.00"
+          }
+        ],
+        "totals": {
+          "amount_claimed": "$861.00",
+          "amount_allowed": "$468.00",
+          "deduct_applied": "$0.00",
+          "other_ins": "$0.00",
+          "patient_resp": "$57.00",
+          "amount_paid": "$411.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 3,
+        "_total_fields": 6,
+        "_model_confidence": 0.99
+      },
+      {
+        "patient_name": "JABLONSKI, MATTHEW",
+        "provider": "DUC TANG",
+        "date_of_service": "04/23/26",
+        "services": [
+          {
+            "procedure_code": "D1110",
+            "amount_claimed": "159.00",
+            "amount_allowed": "85.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "85.00"
+          },
+          {
+            "procedure_code": "D1206",
+            "amount_claimed": "64.00",
+            "amount_allowed": "54.40",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "54.40"
+          },
+          {
+            "procedure_code": "D0120",
+            "amount_claimed": "95.00",
+            "amount_allowed": "43.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "43.00"
+          }
+        ],
+        "totals": {
+          "amount_claimed": "$318.00",
+          "amount_allowed": "$182.40",
+          "deduct_applied": "$0.00",
+          "other_ins": "$0.00",
+          "patient_resp": "$0.00",
+          "amount_paid": "$182.40"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 3,
+        "_total_fields": 6,
+        "_model_confidence": 0.99
+      },
+      {
+        "patient_name": "Castain, Dawn",
+        "provider": "NATALIE SWEENEY",
+        "date_of_service": "04/23/26",
+        "services": [
+          {
+            "procedure_code": "D1110",
+            "amount_claimed": "159.00",
+            "amount_allowed": "74.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "74.00"
+          },
+          {
+            "procedure_code": "D0120",
+            "amount_claimed": "95.00",
+            "amount_allowed": "41.00",
+            "deduct_applied": "0.00",
+            "other_ins": "0.00",
+            "patient_resp": "0.00",
+            "amount_paid": "41.00"
+          }
+        ],
+        "totals": {
+          "amount_claimed": "$254.00",
+          "amount_allowed": "$115.00",
+          "deduct_applied": "$0.00",
+          "other_ins": "$0.00",
+          "patient_resp": "$0.00",
+          "amount_paid": "$115.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 2,
+        "_total_fields": 6,
+        "_model_confidence": 0.99
+      }
+    ]
+  }
+]

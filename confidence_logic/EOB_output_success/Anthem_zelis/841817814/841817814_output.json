@@ -1,0 +1,150 @@
+[
+  {
+    "eob_id": "841817814",
+    "file_name": "Pmt_EOP_841817814.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "ORTIZ, STEFANY",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "1996-02-03",
+        "services": [
+          {
+            "date_of_service": "02/27/26",
+            "service_code": "D2643",
+            "billed_amount": "1778.00",
+            "ppo_discount": "471.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "582.80",
+            "patient_responsibility": "0.00",
+            "paid_amount": "724.20"
+          }
+        ],
+        "totals": {
+          "billed_amount": "1778.00",
+          "ppo_discount": "471.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "582.80",
+          "patient_responsibility": "0.00",
+          "paid_amount": "724.20"
+        },
+        "page_number": 1,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "BROWN, AMY",
+        "claim_payor": "Anthem Blue Cross and Blue Shield",
+        "dob": "1963-09-27",
+        "services": [
+          {
+            "date_of_service": "02/26/26",
+            "service_code": "D2330",
+            "billed_amount": "251.00",
+            "ppo_discount": "119.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "26.40",
+            "patient_responsibility": "0.00",
+            "paid_amount": "105.60"
+          },
+          {
+            "date_of_service": "02/26/26",
+            "service_code": "D2391",
+            "billed_amount": "270.00",
+            "ppo_discount": "125.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "29.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "116.00"
+          },
+          {
+            "date_of_service": "02/26/26",
+            "service_code": "D2391",
+            "billed_amount": "270.00",
+            "ppo_discount": "125.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "29.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "116.00"
+          },
+          {
+            "date_of_service": "02/26/26",
+            "service_code": "D2391",
+            "billed_amount": "270.00",
+            "ppo_discount": "125.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "29.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "116.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "1061.00",
+          "ppo_discount": "494.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "113.40",
+          "patient_responsibility": "0.00",
+          "paid_amount": "453.60"
+        },
+        "page_number": 4,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "GAUR, JUHI",
+        "claim_payor": "Anthem Dental Claims",
+        "dob": "1980-11-25",
+        "services": [
+          {
+            "date_of_service": "02/25/26",
+            "service_code": "D0120",
+            "billed_amount": "89.00",
+            "ppo_discount": "36.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "53.00"
+          },
+          {
+            "date_of_service": "02/25/26",
+            "service_code": "D1110",
+            "billed_amount": "149.00",
+            "ppo_discount": "54.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "95.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "238.00",
+          "ppo_discount": "90.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "0.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "148.00"
+        },
+        "page_number": 6,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

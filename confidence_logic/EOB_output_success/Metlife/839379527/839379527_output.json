@@ -1,0 +1,45 @@
+[
+  {
+    "eob_id": "839379527",
+    "payor": "Metlife",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "pdf_file": "Pmt_EOP_839379527.pdf",
+    "patients": [
+      {
+        "patient_name": "MICHELLE CUNNINGHAM",
+        "relationship": "Dependent",
+        "dob": "",
+        "date_of_service": "01/21/25",
+        "services": [
+          {
+            "service_code": "D0120",
+            "submitted_amount": "40.00",
+            "allowed_amount": "40.00",
+            "paid_amount": "40.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          },
+          {
+            "service_code": "D1110",
+            "submitted_amount": "80.00",
+            "allowed_amount": "80.00",
+            "paid_amount": "80.00",
+            "deductible": "",
+            "patient_owes": "0.00"
+          }
+        ],
+        "totals": {
+          "total_submitted": "120.00",
+          "total_allowed": "120.00",
+          "total_paid": "120.00",
+          "total_patient_owes": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

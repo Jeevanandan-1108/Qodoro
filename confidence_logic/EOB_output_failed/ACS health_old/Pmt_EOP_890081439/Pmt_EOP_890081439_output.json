@@ -1,0 +1,95 @@
+[
+  {
+    "eob_id": "Pmt_EOP_890081439",
+    "file_name": "Pmt_EOP_890081439.pdf",
+    "claim_status": "not denied",
+    "payor": "Dental Blue",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Desiree E Sewell",
+        "date_of_service": "05/12/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D2740",
+            "billed_amount": "1,787.00",
+            "allowed_amount": "1,246.00",
+            "deductible": "75.00",
+            "copay": "0.00",
+            "coinsurance": "585.50",
+            "ineligible": "0.00",
+            "discount_amount": "541.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "585.50"
+          },
+          {
+            "procedure_code": "D2740",
+            "billed_amount": "1,787.00",
+            "allowed_amount": "1,246.00",
+            "deductible": "75.00",
+            "copay": "0.00",
+            "coinsurance": "585.50",
+            "ineligible": "0.00",
+            "discount_amount": "541.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "585.50"
+          }
+        ],
+        "totals": {
+          "provider": "",
+          "billed_amount": "1,787.00",
+          "allowed_amount": "1,246.00",
+          "deductible": "75.00",
+          "copay": "0.00",
+          "coinsurance": "585.50",
+          "ineligible": "0.00",
+          "discount_amount": "541.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "585.50"
+        },
+        "validation": {
+          "status": false,
+          "errors": [
+            {
+              "field": "billed_amount",
+              "computed": 3574.0,
+              "extracted": 1787.0
+            },
+            {
+              "field": "allowed_amount",
+              "computed": 2492.0,
+              "extracted": 1246.0
+            },
+            {
+              "field": "deductible",
+              "computed": 150.0,
+              "extracted": 75.0
+            },
+            {
+              "field": "coinsurance",
+              "computed": 1171.0,
+              "extracted": 585.5
+            },
+            {
+              "field": "discount_amount",
+              "computed": 1082.0,
+              "extracted": 541.0
+            },
+            {
+              "field": "net_payment_amount",
+              "computed": 1171.0,
+              "extracted": 585.5
+            },
+            {
+              "type": "row_count_mismatch"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

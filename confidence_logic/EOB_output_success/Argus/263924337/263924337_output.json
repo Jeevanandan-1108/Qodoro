@@ -1,0 +1,60 @@
+[
+  {
+    "eob_id": "263924337",
+    "file_name": "Pmt_EOP_263924337.pdf",
+    "claim_status": "not denied",
+    "payor": "Argus Dental & Vision",
+    "provider": "Duc Tang",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Yayoi Lasane",
+        "dob": "03/13/1975",
+        "date_of_service": "07/20/2022",
+        "services": [
+          {
+            "service_date": "07/20/2022",
+            "service_code": "D4342",
+            "submitted_charges": "126.00",
+            "allowed_amount": "120.00",
+            "provider_responsibility": "6.00",
+            "copay_amount": "0.00",
+            "not_payable": "18.00",
+            "coins_copay": "12.00",
+            "previously_paid": "0.00",
+            "payable_amount": "108.00"
+          },
+          {
+            "service_date": "07/20/2022",
+            "service_code": "D4342",
+            "submitted_charges": "126.00",
+            "allowed_amount": "0.00",
+            "provider_responsibility": "6.00",
+            "copay_amount": "0.00",
+            "not_payable": "126.00",
+            "coins_copay": "0.00",
+            "previously_paid": "0.00",
+            "payable_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "submitted_charges": "252.00",
+          "allowed_amount": "120.00",
+          "provider_responsibility": "12.00",
+          "copay_amount": "0.00",
+          "not_payable": "144.00",
+          "coins_copay": "12.00",
+          "previously_paid": "0.00",
+          "payable_amount": "108.00",
+          "patients_responsibility": "132.00",
+          "other_insurance_credits": "0.00",
+          "total_payment": "108.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

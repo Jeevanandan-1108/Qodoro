@@ -1,0 +1,77 @@
+[
+  {
+    "eob_id": "336494100",
+    "file_name": "Pmt_EOP_336494100.pdf",
+    "claim_status": "not denied",
+    "payor": "HealthComp Explanation of Benefits",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "David Herman",
+        "date_of_service": "03/02/2023",
+        "services": [
+          {
+            "date_of_service": "03/02/2023",
+            "procedure_code": "D6010",
+            "total_charges": "2245.88",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "50.00",
+            "covered_expense": "2245.88",
+            "payment_amount": "1097.94"
+          }
+        ],
+        "totals": {
+          "total_charges": "2245.88",
+          "patient_responsibility": "0.00",
+          "copay_amount": "0.00",
+          "deductible_amount": "50.00",
+          "covered_expense": "2245.88",
+          "payment_amount": "1097.94"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "David Herman",
+        "date_of_service": "03/16/2023",
+        "services": [
+          {
+            "date_of_service": "03/16/2023",
+            "procedure_code": "D0120",
+            "total_charges": "65.63",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "65.63",
+            "payment_amount": "65.63"
+          },
+          {
+            "date_of_service": "03/16/2023",
+            "procedure_code": "D1110",
+            "total_charges": "117.39",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "117.39",
+            "payment_amount": "117.39"
+          }
+        ],
+        "totals": {
+          "total_charges": "183.02",
+          "patient_responsibility": "0.00",
+          "copay_amount": "0.00",
+          "deductible_amount": "0.00",
+          "covered_expense": "183.02",
+          "payment_amount": "183.02"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

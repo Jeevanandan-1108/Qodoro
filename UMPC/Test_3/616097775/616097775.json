@@ -1,0 +1,207 @@
+[
+  {
+    "file_name": "616097775.pdf",
+    "provider_name": "Meera Hirpara",
+    "confidence_score": "100",
+    "patients": [
+      {
+        "patient_name": "EARLE, RONNIE",
+        "dob": "08/26/1962",
+        "services": [
+          {
+            "item": "1",
+            "dos": "01/27/25",
+            "code": "D5212",
+            "billed_amount": "$1,066.00",
+            "allowed_amount": "$1,027.00",
+            "disallow_amount": "$1,027.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$1,027.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_billed_amount": "$1,066.00",
+          "total_allowed_amount": "$1,027.00",
+          "total_disallow_amount": "$1,027.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$1,027.00"
+        }
+      },
+      {
+        "patient_name": "SMOTHERSON, THOMAS",
+        "dob": "02/10/1949",
+        "services": [
+          {
+            "item": "1",
+            "dos": "01/27/25",
+            "code": "D5110",
+            "billed_amount": "$1,401.00",
+            "allowed_amount": "$0.00",
+            "disallow_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$1,217.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00",
+            "exc_code": "1040",
+            "denial_status": "Denied",
+            "denial_reason": "1040 - Service denied - exceeds maximum allowed per period"
+          },
+          {
+            "item": "2",
+            "dos": "01/27/25",
+            "code": "D5120",
+            "billed_amount": "$1,401.00",
+            "allowed_amount": "$0.00",
+            "disallow_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$1,217.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00",
+            "exc_code": "3000, 3501",
+            "denial_status": "Denied",
+            "denial_reason": "3000 - Based on the patient's dental history this procedure code is not eligible Service deemed inappropriate based on a code in a prior service. ENCOUNTER ID: 20210514103763, DATE OF SERVICE:05/06/2021, PROCEDURE CODE:D5140 | 3501 - Service denied - exceeds maximum allowed per period for procedure group Service deemed inappropriate based on a code in a prior service. ENCOUNTER ID: 20210514103763, DATE OF SERVICE:05/06/2021, PROCEDURE CODE:D5140"
+          },
+          {
+            "item": "3",
+            "dos": "01/27/25",
+            "code": "D5411",
+            "billed_amount": "$0.00",
+            "allowed_amount": "$0.00",
+            "disallow_amount": "$0.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$0.00",
+            "exc_code": "3001",
+            "denial_status": "Denied",
+            "denial_reason": "3001 - Payment is included in the allowance for another service/procedure Service deemed inappropriate based on a code in a prior service. ENCOUNTER ID: 20250128164025, DATE OF SERVICE:01/27/2025, PROCEDURE CODE:D5120"
+          }
+        ],
+        "totals": {
+          "total_billed_amount": "$2,802.00",
+          "total_allowed_amount": "$0.00",
+          "total_disallow_amount": "$0.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$2,434.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$0.00"
+        }
+      },
+      {
+        "patient_name": "EARLE, RONNIE",
+        "dob": "08/26/1962",
+        "services": [
+          {
+            "item": "1",
+            "dos": "01/27/25",
+            "code": "D0150",
+            "billed_amount": "$67.00",
+            "allowed_amount": "$67.00",
+            "disallow_amount": "$67.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$67.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "dos": "01/27/25",
+            "code": "D0330",
+            "billed_amount": "$94.00",
+            "allowed_amount": "$94.00",
+            "disallow_amount": "$94.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$94.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "dos": "01/27/25",
+            "code": "D4341",
+            "billed_amount": "$217.00",
+            "allowed_amount": "$217.00",
+            "disallow_amount": "$217.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$217.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "4",
+            "dos": "01/27/25",
+            "code": "D4341",
+            "billed_amount": "$217.00",
+            "allowed_amount": "$217.00",
+            "disallow_amount": "$217.00",
+            "payable_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "coins_amount": "$0.00",
+            "deduct_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "other_insur": "$0.00",
+            "net_amount": "$217.00",
+            "exc_code": "-",
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_billed_amount": "$595.00",
+          "total_allowed_amount": "$595.00",
+          "total_disallow_amount": "$595.00",
+          "total_payable_amount": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_coins_amount": "$0.00",
+          "total_deduct_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_other_insur": "$0.00",
+          "total_net_amount": "$595.00"
+        }
+      }
+    ]
+  }
+]

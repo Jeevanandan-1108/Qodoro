@@ -1,0 +1,110 @@
+[
+  {
+    "eob_id": "848522243",
+    "file_name": "Pmt_EOP_848522243.pdf",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "DEEDRA BRYANT",
+        "relationship": "SELF",
+        "claim_number": "04-22-615-3349-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "03/09/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "95.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0220",
+            "service_date": "03/09/26",
+            "benefit_type": "MAJOR",
+            "submitted_charges": "49.00",
+            "elig_charges": "19.00",
+            "covered_amount": "0.00",
+            "rmrk_code": "F1I",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0230",
+            "service_date": "03/09/26",
+            "benefit_type": "MAJOR",
+            "submitted_charges": "40.00",
+            "elig_charges": "15.00",
+            "covered_amount": "15.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0274",
+            "service_date": "03/09/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "104.00",
+            "elig_charges": "46.00",
+            "covered_amount": "46.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D4910",
+            "service_date": "03/09/26",
+            "benefit_type": "MAJOR",
+            "submitted_charges": "220.00",
+            "elig_charges": "141.00",
+            "covered_amount": "0.00",
+            "rmrk_code": "F1J",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "199.00",
+            "elig_charges": "84.00",
+            "covered_amount": "84.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "84.00",
+            "percent": "100%",
+            "payable": "84.00"
+          },
+          {
+            "benefit_type": "MAJOR",
+            "submitted_charges": "309.00",
+            "elig_charges": "175.00",
+            "covered_amount": "15.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "15.00",
+            "percent": "50%",
+            "payable": "7.50"
+          }
+        ],
+        "sub_total": "91.50",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "167.50",
+        "total_paid": "91.50"
+      }
+    ],
+    "amount_pd": "91.50",
+    "amount_pd_derived": false,
+    "_page": 1,
+    "_table": 1,
+    "validation": {
+      "status": true,
+      "errors": []
+    }
+  }
+]

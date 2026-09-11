@@ -1,0 +1,47 @@
+[
+  {
+    "eob_id": "361471927",
+    "file_name": "Pmt_EOP_361471927.pdf",
+    "payor": "Blue Cross and Blue Shield of Texas",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "HALL,PAMELA",
+        "date_of_service": "06/01/23",
+        "services": [
+          {
+            "service_code": "D0210",
+            "amount_billed": "169.13",
+            "discounts_and_reductions": "82.13",
+            "allowed_amount": "87.00",
+            "dental_plan_responsibility": "87.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          }
+        ],
+        "totals": {
+          "amount_billed": "169.13",
+          "discounts_and_reductions": "82.13",
+          "allowed_amount": "87.00",
+          "dental_plan_responsibility": "87.00",
+          "deductible_amount": "0.00",
+          "copay_amount": "0.00",
+          "coinsurance": "0.00",
+          "amount_not_covered": "0.00",
+          "patient_costs": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 1,
+        "_total_fields": 9,
+        "_model_confidence": 1.0
+      }
+    ]
+  }
+]

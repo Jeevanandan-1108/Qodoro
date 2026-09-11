@@ -1,0 +1,88 @@
+[
+  {
+    "eob_id": "280247484",
+    "claim_status": "not denied",
+    "payor": "GILSBAR, L.L.C. Explanation of Benefits",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "David Herman",
+        "date_of_service": "09/15/2022",
+        "services": [
+          {
+            "date_of_service": "09/15/2022",
+            "procedure_code": "D0120",
+            "total_charges": "65.63",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "65.63",
+            "payment_amount": "65.63"
+          },
+          {
+            "date_of_service": "09/15/2022",
+            "procedure_code": "D1110",
+            "total_charges": "117.39",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "117.39",
+            "payment_amount": "117.39"
+          },
+          {
+            "date_of_service": "09/15/2022",
+            "procedure_code": "D0274",
+            "total_charges": "84.57",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "84.57",
+            "payment_amount": "84.57"
+          },
+          {
+            "date_of_service": "09/15/2022",
+            "procedure_code": "D0220",
+            "total_charges": "39.13",
+            "patient_responsibility": "1.20",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "37.93",
+            "payment_amount": "37.93"
+          },
+          {
+            "date_of_service": "09/15/2022",
+            "procedure_code": "D0230",
+            "total_charges": "32.83",
+            "patient_responsibility": "0.00",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "32.83",
+            "payment_amount": "32.83"
+          },
+          {
+            "date_of_service": "09/15/2022",
+            "procedure_code": "D1206",
+            "total_charges": "53.08",
+            "patient_responsibility": "53.08",
+            "copay_amount": "0.00",
+            "deductible_amount": "0.00",
+            "covered_expense": "0.00",
+            "payment_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "total_charges": "392.63",
+          "patient_responsibility": "54.28",
+          "copay_amount": "0.00",
+          "deductible_amount": "0.00",
+          "covered_expense": "338.35",
+          "payment_amount": "338.35"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

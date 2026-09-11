@@ -1,0 +1,44 @@
+[
+  {
+    "eob_id": "Pmt_EOP_276758807",
+    "file_name": "Pmt_EOP_276758807.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "CHARLOTTE DEBOER",
+        "date_of_service": "08/12/2022",
+        "services": [
+          {
+            "procedure_code": "D7140",
+            "total_charge": "$131.00",
+            "plan_allowed_amount": "$131.00",
+            "deductible_amount": "$0.00",
+            "copay_amount": "$0.00",
+            "ineligible_amount": "$45.85",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$85.15",
+            "patient_responsibility": "$45.85"
+          }
+        ],
+        "totals": {
+          "total_charge": "$131.00",
+          "plan_allowed_amount": "$131.00",
+          "deductible_amount": "$0.00",
+          "copay_amount": "$0.00",
+          "ineligible_amount": "$45.85",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$85.15",
+          "patient_responsibility": "$45.85"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

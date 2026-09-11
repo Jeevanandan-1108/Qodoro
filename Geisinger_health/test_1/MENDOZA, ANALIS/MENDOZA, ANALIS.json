@@ -1,0 +1,105 @@
+[
+  {
+    "file_name": "MENDOZA, ANALIS.pdf",
+    "patient_name": "Analis Mendoza",
+    "provider_name": "Kaushal Patel",
+    "claim_status": "Processed",
+    "services": [
+      {
+        "service_code": "D0150",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$110.00",
+        "service_date": "04/21/2026",
+        "cob_collected": "$0.00",
+        "payable": "$25.40",
+        "allowed_amount": "$25.40",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$25.40",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D0330",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$138.00",
+        "service_date": "04/21/2026",
+        "cob_collected": "$0.00",
+        "payable": "$0.00",
+        "allowed_amount": "$46.99",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$0.00",
+        "denial_status": "Denied",
+        "denial_reason": "1051 - Service denied - exceeds maximum allowed per period for procedure grouping"
+      },
+      {
+        "service_code": "D1110",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$107.00",
+        "service_date": "04/21/2026",
+        "cob_collected": "$0.00",
+        "payable": "$45.72",
+        "allowed_amount": "$45.72",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$45.72",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1208",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$40.00",
+        "service_date": "04/21/2026",
+        "cob_collected": "$0.00",
+        "payable": "$23.77",
+        "allowed_amount": "$23.77",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$23.77",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1310",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$30.00",
+        "service_date": "04/21/2026",
+        "cob_collected": "$0.00",
+        "payable": "$10.87",
+        "allowed_amount": "$10.87",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$10.87",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1330",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$20.00",
+        "service_date": "04/21/2026",
+        "cob_collected": "$0.00",
+        "payable": "$11.08",
+        "allowed_amount": "$11.08",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$11.08",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      }
+    ],
+    "totals": {
+      "total_billed_amount": "$445.00",
+      "original_paid_amount": "$116.84",
+      "net_paid_amount": "$116.84"
+    }
+  }
+]

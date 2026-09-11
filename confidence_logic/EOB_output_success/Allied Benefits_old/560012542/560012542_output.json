@@ -1,0 +1,107 @@
+[
+  {
+    "eob_id": "560012542",
+    "file_name": "Pmt_EOP_560012542.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "BAILEY LE",
+        "date_of_service": "09/24/2024",
+        "provider": "HALUSIC DMD, ALINA",
+        "payor": "Allied",
+        "services": [
+          {
+            "service_code": "99",
+            "total_charge": "45.00",
+            "ineligible_amount": "4.36",
+            "discount_amount": "0.00",
+            "covered_by_plan": "40.64",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "balance_amount": "40.64",
+            "paid_at": "70%",
+            "payment_amount": "28.45"
+          },
+          {
+            "service_code": "99",
+            "total_charge": "139.00",
+            "ineligible_amount": "7.72",
+            "discount_amount": "0.00",
+            "covered_by_plan": "131.28",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "balance_amount": "131.28",
+            "paid_at": "70%",
+            "payment_amount": "91.90"
+          },
+          {
+            "service_code": "99",
+            "total_charge": "37.00",
+            "ineligible_amount": "0.42",
+            "discount_amount": "0.00",
+            "covered_by_plan": "36.58",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "balance_amount": "36.58",
+            "paid_at": "70%",
+            "payment_amount": "25.61"
+          },
+          {
+            "service_code": "99",
+            "total_charge": "99.00",
+            "ineligible_amount": "6.65",
+            "discount_amount": "0.00",
+            "covered_by_plan": "92.35",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "balance_amount": "92.35",
+            "paid_at": "70%",
+            "payment_amount": "64.65"
+          },
+          {
+            "service_code": "99",
+            "total_charge": "202.00",
+            "ineligible_amount": "6.18",
+            "discount_amount": "0.00",
+            "covered_by_plan": "195.82",
+            "deductible_amount": "50.00",
+            "copay_amount": "0.00",
+            "balance_amount": "145.82",
+            "paid_at": "40%",
+            "payment_amount": "58.33"
+          },
+          {
+            "service_code": "99",
+            "total_charge": "283.00",
+            "ineligible_amount": "0.00",
+            "discount_amount": "0.00",
+            "covered_by_plan": "283.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "balance_amount": "283.00",
+            "paid_at": "40%",
+            "payment_amount": "113.20"
+          }
+        ],
+        "totals": {
+          "total_charge": "805.00",
+          "ineligible_amount": "25.33",
+          "discount_amount": "0.00",
+          "covered_by_plan": "779.67",
+          "deductible_amount": "50.00",
+          "copay_amount": "0.00",
+          "balance_amount": "729.67",
+          "payment_amount": "382.14",
+          "patients_responsibility": "422.86",
+          "other_credits_adjustments": "0.00",
+          "total_net_payment": "382.14"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

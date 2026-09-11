@@ -1,0 +1,85 @@
+[
+  {
+    "eob_id": "508188116",
+    "claim_status": "not denied",
+    "payor": "Group Administrators",
+    "confidence_score": 100.0,
+    "human_review": true,
+    "patients": [
+      {
+        "patient_name": "FRANCIS KUCZYNSKI",
+        "provider": "DUC TANG DDS PLLC",
+        "date_of_service": "05/07-05/07/2024",
+        "services": [
+          {
+            "total_charges": "37.00",
+            "charge_reduction": "0.00",
+            "non_covered_services": "0.00",
+            "deductible": "0.00",
+            "coinsurance_copay": "0.00",
+            "other_plan": "0.00",
+            "benefits_paid": "37.00"
+          },
+          {
+            "total_charges": "20.00",
+            "charge_reduction": "0.00",
+            "non_covered_services": "0.00",
+            "deductible": "0.00",
+            "coinsurance_copay": "0.00",
+            "other_plan": "0.00",
+            "benefits_paid": "20.00"
+          },
+          {
+            "total_charges": "16.00",
+            "charge_reduction": "0.00",
+            "non_covered_services": "0.00",
+            "deductible": "0.00",
+            "coinsurance_copay": "0.00",
+            "other_plan": "0.00",
+            "benefits_paid": "16.00"
+          },
+          {
+            "total_charges": "48.00",
+            "charge_reduction": "0.00",
+            "non_covered_services": "0.00",
+            "deductible": "0.00",
+            "coinsurance_copay": "0.00",
+            "other_plan": "0.00",
+            "benefits_paid": "48.00"
+          },
+          {
+            "total_charges": "177.00",
+            "charge_reduction": "0.00",
+            "non_covered_services": "0.00",
+            "deductible": "50.00",
+            "coinsurance_copay": "25.40",
+            "other_plan": "0.00",
+            "benefits_paid": "101.60"
+          },
+          {
+            "total_charges": "124.00",
+            "charge_reduction": "0.00",
+            "non_covered_services": "0.00",
+            "deductible": "0.00",
+            "coinsurance_copay": "24.80",
+            "other_plan": "0.00",
+            "benefits_paid": "99.20"
+          }
+        ],
+        "claim_totals": {
+          "total_charges": "422.00",
+          "charge_reduction": "0.00",
+          "non_covered_services": "0.00",
+          "deductible": "50.00",
+          "coinsurance_copay": "50.20",
+          "other_plan": "0.00",
+          "benefits_paid": "321.80"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

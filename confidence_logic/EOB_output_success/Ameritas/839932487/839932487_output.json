@@ -1,0 +1,281 @@
+[
+  {
+    "eob_id": "839932487",
+    "file_name": "Pmt_EOP_839932487.pdf",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "KEELEY R GREENE",
+        "relationship": "SELF",
+        "claim_number": "04-22-603-9611-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "02/23/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "89.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1110",
+            "service_date": "02/23/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "149.00",
+            "elig_charges": "85.00",
+            "covered_amount": "85.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "238.00",
+            "elig_charges": "123.00",
+            "covered_amount": "123.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "123.00",
+            "percent": "100%",
+            "payable": "123.00"
+          }
+        ],
+        "sub_total": "123.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "0.00",
+        "total_paid": "123.00"
+      }
+    ],
+    "amount_pd": "123.00",
+    "amount_pd_derived": false,
+    "_page": 1,
+    "_table": 1,
+    "validation": {
+      "status": true,
+      "errors": []
+    }
+  },
+  {
+    "eob_id": "839932487",
+    "file_name": "Pmt_EOP_839932487.pdf",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "JOSEPH R PHELAN",
+        "relationship": "SELF",
+        "claim_number": "04-22-603-9138-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "02/20/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "89.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1110",
+            "service_date": "02/20/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "149.00",
+            "elig_charges": "85.00",
+            "covered_amount": "85.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "238.00",
+            "elig_charges": "123.00",
+            "covered_amount": "123.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "123.00",
+            "percent": "100%",
+            "payable": "123.00"
+          }
+        ],
+        "sub_total": "123.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "0.00",
+        "total_paid": "123.00"
+      }
+    ],
+    "amount_pd": "123.00",
+    "amount_pd_derived": false,
+    "_page": 2,
+    "_table": 1,
+    "validation": {
+      "status": true,
+      "errors": []
+    }
+  },
+  {
+    "eob_id": "839932487",
+    "file_name": "Pmt_EOP_839932487.pdf",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "MELANIE EARLY",
+        "relationship": "SELF",
+        "claim_number": "04-22-603-9124-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "02/20/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "89.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1110",
+            "service_date": "02/20/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "149.00",
+            "elig_charges": "85.00",
+            "covered_amount": "85.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "238.00",
+            "elig_charges": "123.00",
+            "covered_amount": "123.00",
+            "minus_dedct": "10.00",
+            "remain_charges": "113.00",
+            "percent": "100%",
+            "payable": "113.00"
+          }
+        ],
+        "sub_total": "113.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "10.00",
+        "total_paid": "113.00"
+      },
+      {
+        "patient_name": "KATINA J IZURIETA",
+        "relationship": "DEPENDENT",
+        "claim_number": "04-22-605-1236-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "02/24/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "89.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0220",
+            "service_date": "02/24/26",
+            "benefit_type": "MAJOR",
+            "submitted_charges": "45.00",
+            "elig_charges": "19.00",
+            "covered_amount": "19.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0230",
+            "service_date": "02/24/26",
+            "benefit_type": "MAJOR",
+            "submitted_charges": "37.00",
+            "elig_charges": "15.00",
+            "covered_amount": "0.00",
+            "rmrk_code": "F1I",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0274",
+            "service_date": "02/24/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "99.00",
+            "elig_charges": "46.00",
+            "covered_amount": "46.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1110",
+            "service_date": "02/24/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "149.00",
+            "elig_charges": "85.00",
+            "covered_amount": "85.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "337.00",
+            "elig_charges": "169.00",
+            "covered_amount": "169.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "169.00",
+            "percent": "100%",
+            "payable": "169.00"
+          },
+          {
+            "benefit_type": "MAJOR",
+            "submitted_charges": "82.00",
+            "elig_charges": "34.00",
+            "covered_amount": "19.00",
+            "minus_dedct": "19.00",
+            "remain_charges": "0.00",
+            "percent": "0%",
+            "payable": "0.00"
+          }
+        ],
+        "sub_total": "169.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "34.00",
+        "total_paid": "169.00"
+      }
+    ],
+    "amount_pd": "282.00",
+    "amount_pd_derived": false,
+    "_page": 3,
+    "_table": 1,
+    "validation": {
+      "status": true,
+      "errors": []
+    }
+  }
+]

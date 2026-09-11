@@ -1,0 +1,53 @@
+[
+  {
+    "eob_id": "Pmt_EOP_314231639",
+    "file_name": "Pmt_EOP_314231639.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "GARY CATTEL",
+        "date_of_service": "10/25/2022",
+        "services": [
+          {
+            "procedure_code": "D0150",
+            "total_charge": "$67.00",
+            "plan_allowed_amount": "$67.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$0.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$67.00",
+            "patient_responsibility": "$0.00"
+          },
+          {
+            "procedure_code": "D1110",
+            "total_charge": "$78.00",
+            "plan_allowed_amount": "$78.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$0.00",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$78.00",
+            "patient_responsibility": "$0.00"
+          }
+        ],
+        "totals": {
+          "total_charge": "$145.00",
+          "plan_allowed_amount": "$145.00",
+          "deductible_amount": "$0.00",
+          "ineligible_amount": "$0.00",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$145.00",
+          "patient_responsibility": "$0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

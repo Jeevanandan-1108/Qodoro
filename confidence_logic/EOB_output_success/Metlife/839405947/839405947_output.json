@@ -1,0 +1,37 @@
+[
+  {
+    "eob_id": "839405947",
+    "payor": "Metlife",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "pdf_file": "Pmt_EOP_839405947.pdf",
+    "patients": [
+      {
+        "patient_name": "NICOLE BYRD",
+        "relationship": "Dependent",
+        "dob": "",
+        "date_of_service": "12/29/25",
+        "services": [
+          {
+            "service_code": "D6010",
+            "submitted_amount": "2774.00",
+            "allowed_amount": "1643.00",
+            "paid_amount": "821.50",
+            "deductible": "",
+            "patient_owes": "821.50"
+          }
+        ],
+        "totals": {
+          "total_submitted": "2774.00",
+          "total_allowed": "1643.00",
+          "total_paid": "821.50",
+          "total_patient_owes": "821.50"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

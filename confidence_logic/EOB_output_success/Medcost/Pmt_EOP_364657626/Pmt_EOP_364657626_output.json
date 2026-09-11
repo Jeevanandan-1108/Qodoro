@@ -1,0 +1,198 @@
+[
+  {
+    "eob_id": "364657626",
+    "file_name": "Pmt_EOP_364657626.pdf",
+    "claim_status": "not denied",
+    "payor": "MEDCOST BENEFIT SERVICES",
+    "confidence_score": 99.0,
+    "patients": [
+      {
+        "patient_name": "ONI, ANIKE I.",
+        "provider": "DUC TANG DDS PLLC",
+        "services": [
+          {
+            "service_date": "06/12/23",
+            "service_code": "D1120",
+            "total_charge": "82.58",
+            "in_network_adjustment": "0.00",
+            "not_covered": "2.37",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$80.21"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D0120",
+            "total_charge": "65.63",
+            "in_network_adjustment": "0.00",
+            "not_covered": "1.51",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$64.12"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D1206",
+            "total_charge": "53.08",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$53.08"
+          }
+        ],
+        "totals": {
+          "total_charge": "201.29",
+          "in_network_adjustment": "0.00",
+          "not_covered": "3.88",
+          "deductible": "0.00",
+          "co_pay": "0.00",
+          "coinsurance": "0.00",
+          "plan_payment_amount": "$197.41",
+          "employee_paid_amount": "$0.00",
+          "total_payment": "$197.41",
+          "patient_responsibility": "$3.88"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "ONI, ADELEKE",
+        "provider": "DUC TANG DDS PLLC",
+        "services": [
+          {
+            "service_date": "06/12/23",
+            "service_code": "D0230",
+            "total_charge": "32.83",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.37",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$32.46"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D0220",
+            "total_charge": "39.13",
+            "in_network_adjustment": "0.00",
+            "not_covered": "3.06",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$36.07"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D0274",
+            "total_charge": "84.57",
+            "in_network_adjustment": "0.00",
+            "not_covered": "1.41",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$83.16"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D1110",
+            "total_charge": "117.39",
+            "in_network_adjustment": "0.00",
+            "not_covered": "1.17",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$116.22"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D0120",
+            "total_charge": "65.63",
+            "in_network_adjustment": "0.00",
+            "not_covered": "1.51",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$64.12"
+          }
+        ],
+        "totals": {
+          "total_charge": "339.55",
+          "in_network_adjustment": "0.00",
+          "not_covered": "7.52",
+          "deductible": "0.00",
+          "co_pay": "0.00",
+          "coinsurance": "0.00",
+          "plan_payment_amount": "$332.03",
+          "employee_paid_amount": "$0.00",
+          "total_payment": "$332.03",
+          "patient_responsibility": "$7.52"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "ONI, OLUWADARA",
+        "provider": "DUC TANG DDS PLLC",
+        "services": [
+          {
+            "service_date": "06/12/23",
+            "service_code": "D1120",
+            "total_charge": "82.58",
+            "in_network_adjustment": "0.00",
+            "not_covered": "2.37",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$80.21"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D0120",
+            "total_charge": "65.63",
+            "in_network_adjustment": "0.00",
+            "not_covered": "1.51",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$64.12"
+          },
+          {
+            "service_date": "06/12/23",
+            "service_code": "D1206",
+            "total_charge": "53.08",
+            "in_network_adjustment": "0.00",
+            "not_covered": "0.00",
+            "deductible": "0.00",
+            "co_pay": "0.00",
+            "coinsurance": "0.00",
+            "plan_payment_amount": "$53.08"
+          }
+        ],
+        "totals": {
+          "total_charge": "201.29",
+          "in_network_adjustment": "0.00",
+          "not_covered": "3.88",
+          "deductible": "0.00",
+          "co_pay": "0.00",
+          "coinsurance": "0.00",
+          "plan_payment_amount": "197.41",
+          "employee_paid_amount": "0.00",
+          "total_payment": "197.41",
+          "patient_responsibility": "3.88"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

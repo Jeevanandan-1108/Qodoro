@@ -1,0 +1,71 @@
+[
+  {
+    "eob_id": "845942034",
+    "file_name": "Pmt_EOP_845942034.pdf",
+    "payor": "Blue Cross and Blue Shield of Texas",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "TAYLOR,ROBERT E",
+        "date_of_service": "02/27/26",
+        "services": [
+          {
+            "service_code": "D4910",
+            "amount_billed": "209.00",
+            "discounts_and_reductions": "68.00",
+            "allowed_amount": "141.00",
+            "dental_plan_responsibility": "72.80",
+            "deductible_amount": "50.00",
+            "copay_amount": "0.00",
+            "coinsurance": "18.20",
+            "amount_not_covered": "0.00",
+            "patient_costs": "68.20"
+          },
+          {
+            "service_code": "D0330",
+            "amount_billed": "175.00",
+            "discounts_and_reductions": "99.00",
+            "allowed_amount": "76.00",
+            "dental_plan_responsibility": "76.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          },
+          {
+            "service_code": "D0120",
+            "amount_billed": "89.00",
+            "discounts_and_reductions": "51.00",
+            "allowed_amount": "38.00",
+            "dental_plan_responsibility": "38.00",
+            "deductible_amount": "0.00",
+            "copay_amount": "0.00",
+            "coinsurance": "0.00",
+            "amount_not_covered": "0.00",
+            "patient_costs": "0.00"
+          }
+        ],
+        "totals": {
+          "amount_billed": "473.00",
+          "discounts_and_reductions": "218.00",
+          "allowed_amount": "255.00",
+          "dental_plan_responsibility": "186.80",
+          "deductible_amount": "50.00",
+          "copay_amount": "0.00",
+          "coinsurance": "18.20",
+          "amount_not_covered": "0.00",
+          "patient_costs": "68.20"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        },
+        "_expected_rows": 3,
+        "_total_fields": 9,
+        "_model_confidence": 1.0
+      }
+    ]
+  }
+]

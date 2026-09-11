@@ -1,0 +1,97 @@
+[
+  {
+    "eob_id": "837531015",
+    "file_name": "Pmt_EOP_837531015.pdf",
+    "claim_status": "not denied",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "JORDAN DEJACO",
+        "claim_payor": "UMR",
+        "dob": "",
+        "services": [
+          {
+            "date_of_service": "02/13/26",
+            "service_code": "D0150",
+            "billed_amount": "139.00",
+            "ppo_discount": "65.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "74.00"
+          },
+          {
+            "date_of_service": "02/13/26",
+            "service_code": "D0274",
+            "billed_amount": "99.00",
+            "ppo_discount": "42.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "57.00"
+          },
+          {
+            "date_of_service": "02/13/26",
+            "service_code": "D0220",
+            "billed_amount": "45.00",
+            "ppo_discount": "18.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "27.00"
+          },
+          {
+            "date_of_service": "02/13/26",
+            "service_code": "D0230",
+            "billed_amount": "37.00",
+            "ppo_discount": "14.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "0.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "23.00"
+          },
+          {
+            "date_of_service": "02/13/26",
+            "service_code": "D4341",
+            "billed_amount": "367.00",
+            "ppo_discount": "122.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "69.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "176.00"
+          },
+          {
+            "date_of_service": "02/13/26",
+            "service_code": "D4341",
+            "billed_amount": "367.00",
+            "ppo_discount": "122.00",
+            "non_covered": "0.00",
+            "other_coverage": "0.00",
+            "deductible": "49.00",
+            "patient_responsibility": "0.00",
+            "paid_amount": "196.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "1054.00",
+          "ppo_discount": "383.00",
+          "non_covered": "0.00",
+          "other_coverage": "0.00",
+          "deductible": "118.00",
+          "patient_responsibility": "0.00",
+          "paid_amount": "553.00"
+        },
+        "page_number": 1,
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

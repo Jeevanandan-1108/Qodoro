@@ -1,0 +1,120 @@
+[
+  {
+    "file_name": "ANDIEL VILORIO, JOEL.pdf",
+    "patient_name": "Joel Andiel Vilorio",
+    "provider_name": "Kaushal Patel",
+    "claim_status": "Processed",
+    "services": [
+      {
+        "service_code": "D0120",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$62.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$26.16",
+        "allowed_amount": "$26.16",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$26.16",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D0272",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$61.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$20.93",
+        "allowed_amount": "$20.93",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$20.93",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1110",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$107.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$47.09",
+        "allowed_amount": "$47.09",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$47.09",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1208",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$40.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$24.49",
+        "allowed_amount": "$24.49",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$24.49",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1310",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$30.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$11.20",
+        "allowed_amount": "$11.20",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$11.20",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D1330",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$20.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$11.41",
+        "allowed_amount": "$11.41",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$11.41",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      },
+      {
+        "service_code": "D0220",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$36.00",
+        "service_date": "04/27/2026",
+        "cob_collected": "$0.00",
+        "payable": "$10.46",
+        "allowed_amount": "$10.46",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$10.46",
+        "denial_status": "Not Denied",
+        "denial_reason": null
+      }
+    ],
+    "totals": {
+      "total_billed_amount": "$356.00",
+      "original_paid_amount": "$151.74",
+      "net_paid_amount": "$151.74"
+    }
+  }
+]

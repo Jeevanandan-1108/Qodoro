@@ -1,0 +1,455 @@
+[
+  {
+    "eob_id": "Pmt_EOP_896761030",
+    "file_name": "Pmt_EOP_896761030.pdf",
+    "claim_status": "not denied",
+    "payor": "Dental Blue",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Jimmy L Webber",
+        "date_of_service": "01/19/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D0150",
+            "billed_amount": "139.00",
+            "allowed_amount": "87.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "52.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "87.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "billed_amount": "45.00",
+            "allowed_amount": "30.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "15.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "30.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "billed_amount": "37.00",
+            "allowed_amount": "23.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "14.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "23.00"
+          },
+          {
+            "procedure_code": "D0274",
+            "billed_amount": "99.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "67.00",
+            "discount_amount": "32.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "320.00",
+          "allowed_amount": "140.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "67.00",
+          "discount_amount": "113.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "140.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Paul Matthews",
+        "date_of_service": "05/19/26",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "388.00",
+            "allowed_amount": "265.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "132.50",
+            "ineligible": "0.00",
+            "discount_amount": "123.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "132.50"
+          },
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "388.00",
+            "allowed_amount": "265.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "132.50",
+            "ineligible": "0.00",
+            "discount_amount": "123.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "132.50"
+          }
+        ],
+        "totals": {
+          "billed_amount": "776.00",
+          "allowed_amount": "530.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "265.00",
+          "ineligible": "0.00",
+          "discount_amount": "246.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "265.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Paul Matthews",
+        "date_of_service": "03/06/26",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D9944",
+            "billed_amount": "822.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "657.60",
+            "discount_amount": "164.40",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "822.00",
+          "allowed_amount": "0.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "657.60",
+          "discount_amount": "164.40",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Joe S Hack",
+        "date_of_service": "05/19/26",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D2740",
+            "billed_amount": "1,787.00",
+            "allowed_amount": "1,246.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "623.00",
+            "ineligible": "0.00",
+            "discount_amount": "541.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "623.00"
+          },
+          {
+            "procedure_code": "D2950",
+            "billed_amount": "412.00",
+            "allowed_amount": "276.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "138.00",
+            "ineligible": "0.00",
+            "discount_amount": "136.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "138.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "billed_amount": "49.00",
+            "allowed_amount": "30.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "19.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "30.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "2,248.00",
+          "allowed_amount": "1,552.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "761.00",
+          "ineligible": "0.00",
+          "discount_amount": "696.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "791.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Joe S Hack",
+        "date_of_service": "05/20/26",
+        "provider": "DUC TANG DDS",
+        "services": [
+          {
+            "procedure_code": "D0150",
+            "billed_amount": "148.00",
+            "allowed_amount": "87.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "61.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "87.00"
+          },
+          {
+            "procedure_code": "D0274",
+            "billed_amount": "104.00",
+            "allowed_amount": "67.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "37.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "67.00"
+          },
+          {
+            "procedure_code": "D0220",
+            "billed_amount": "49.00",
+            "allowed_amount": "30.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "19.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "30.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "billed_amount": "40.00",
+            "allowed_amount": "23.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "0.00",
+            "discount_amount": "17.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "23.00"
+          },
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "388.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "265.00",
+            "discount_amount": "123.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          },
+          {
+            "procedure_code": "D4341",
+            "billed_amount": "388.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "265.00",
+            "discount_amount": "123.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "1,117.00",
+          "allowed_amount": "207.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "530.00",
+          "discount_amount": "380.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "207.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Tamara Selemeneva",
+        "date_of_service": "05/15/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D5650",
+            "billed_amount": "337.00",
+            "allowed_amount": "204.00",
+            "deductible": "50.00",
+            "copay": "0.00",
+            "coinsurance": "77.00",
+            "ineligible": "0.00",
+            "discount_amount": "133.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "77.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "337.00",
+          "allowed_amount": "204.00",
+          "deductible": "50.00",
+          "copay": "0.00",
+          "coinsurance": "77.00",
+          "ineligible": "0.00",
+          "discount_amount": "133.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "77.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Tamara Selemeneva",
+        "date_of_service": "05/18/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D2644",
+            "billed_amount": "1,933.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "1,327.00",
+            "discount_amount": "606.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          },
+          {
+            "procedure_code": "D2392",
+            "billed_amount": "357.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "237.00",
+            "discount_amount": "120.00",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "2,290.00",
+          "allowed_amount": "0.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "1,564.00",
+          "discount_amount": "726.00",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "Tamara Selemeneva",
+        "date_of_service": "03/11/26",
+        "provider": "DUC TANG",
+        "services": [
+          {
+            "procedure_code": "D9944",
+            "billed_amount": "822.00",
+            "allowed_amount": "0.00",
+            "deductible": "0.00",
+            "copay": "0.00",
+            "coinsurance": "0.00",
+            "ineligible": "657.60",
+            "discount_amount": "164.40",
+            "other_plan_payment": "0.00",
+            "other_adjustments": "0.00",
+            "net_payment_amount": "0.00"
+          }
+        ],
+        "totals": {
+          "billed_amount": "822.00",
+          "allowed_amount": "0.00",
+          "deductible": "0.00",
+          "copay": "0.00",
+          "coinsurance": "0.00",
+          "ineligible": "657.60",
+          "discount_amount": "164.40",
+          "other_plan_payment": "0.00",
+          "other_adjustments": "0.00",
+          "net_payment_amount": "0.00"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

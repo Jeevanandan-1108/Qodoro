@@ -1,0 +1,159 @@
+[
+  {
+    "eob_id": "845701432",
+    "file_name": "Pmt_EOP_845701432.pdf",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "HENRY TRAN",
+        "relationship": "DEPENDENT",
+        "claim_number": "04-22-611-0826-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "95.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0274",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "104.00",
+            "elig_charges": "46.00",
+            "covered_amount": "46.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1120",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "116.00",
+            "elig_charges": "59.00",
+            "covered_amount": "59.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1206",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "64.00",
+            "elig_charges": "54.00",
+            "covered_amount": "54.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "379.00",
+            "elig_charges": "197.00",
+            "covered_amount": "197.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "197.00",
+            "percent": "100%",
+            "payable": "197.00"
+          }
+        ],
+        "sub_total": "197.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "0.00",
+        "total_paid": "197.00"
+      },
+      {
+        "patient_name": "EMMA TRAN",
+        "relationship": "DEPENDENT",
+        "claim_number": "04-22-611-0845-0",
+        "services": [
+          {
+            "proc_code": "D0120",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "95.00",
+            "elig_charges": "38.00",
+            "covered_amount": "38.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D0274",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "104.00",
+            "elig_charges": "46.00",
+            "covered_amount": "46.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1120",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "116.00",
+            "elig_charges": "59.00",
+            "covered_amount": "59.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          },
+          {
+            "proc_code": "D1206",
+            "service_date": "03/03/26",
+            "benefit_type": "PREVENT",
+            "submitted_charges": "64.00",
+            "elig_charges": "54.00",
+            "covered_amount": "54.00",
+            "rmrk_code": "",
+            "minus_dedct": "",
+            "remain_charges": "",
+            "payable": ""
+          }
+        ],
+        "benefit_totals": [
+          {
+            "benefit_type": "PREVENT",
+            "submitted_charges": "379.00",
+            "elig_charges": "197.00",
+            "covered_amount": "197.00",
+            "minus_dedct": "0.00",
+            "remain_charges": "197.00",
+            "percent": "100%",
+            "payable": "197.00"
+          }
+        ],
+        "sub_total": "197.00",
+        "excluded_amount": "",
+        "billable_amount_to_patient": "0.00",
+        "total_paid": "197.00"
+      }
+    ],
+    "amount_pd": "394.00",
+    "amount_pd_derived": false,
+    "_page": 1,
+    "_table": 1,
+    "validation": {
+      "status": true,
+      "errors": []
+    }
+  }
+]

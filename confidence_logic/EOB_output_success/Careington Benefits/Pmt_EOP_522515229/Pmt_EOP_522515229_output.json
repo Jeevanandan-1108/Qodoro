@@ -1,0 +1,139 @@
+[
+  {
+    "eob_id": "Pmt_EOP_522515229",
+    "file_name": "Pmt_EOP_522515229.pdf",
+    "claim_status": "not denied",
+    "payor": "CAREINGTON BENEFIT SOLUTIONS",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "BRIAN SCHLEY",
+        "date_of_service": "07/09/2024",
+        "services": [
+          {
+            "procedure_code": "D0270",
+            "total_charge": "$35.34",
+            "plan_allowed_amount": "$0.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$35.34",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$35.34"
+          },
+          {
+            "procedure_code": "D0220",
+            "total_charge": "$39.13",
+            "plan_allowed_amount": "$16.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$23.13",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$16.00",
+            "patient_responsibility": "$23.13"
+          },
+          {
+            "procedure_code": "D0140",
+            "total_charge": "$97.19",
+            "plan_allowed_amount": "$48.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$49.19",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$48.00",
+            "patient_responsibility": "$49.19"
+          },
+          {
+            "procedure_code": "D0150",
+            "total_charge": "$112.34",
+            "plan_allowed_amount": "$49.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$63.34",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$49.00",
+            "patient_responsibility": "$63.34"
+          },
+          {
+            "procedure_code": "D0274",
+            "total_charge": "$84.57",
+            "plan_allowed_amount": "$37.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$47.57",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$37.00",
+            "patient_responsibility": "$47.57"
+          },
+          {
+            "procedure_code": "D0220",
+            "total_charge": "$39.13",
+            "plan_allowed_amount": "$0.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$39.13",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$0.00"
+          },
+          {
+            "procedure_code": "D0230",
+            "total_charge": "$32.83",
+            "plan_allowed_amount": "$13.00",
+            "deductible_amount": "$0.00",
+            "ineligible_amount": "$19.83",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$13.00",
+            "patient_responsibility": "$19.83"
+          }
+        ],
+        "totals": {
+          "total_charge": "$440.53",
+          "plan_allowed_amount": "$163.00",
+          "deductible_amount": "$0.00",
+          "ineligible_amount": "$277.53",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$163.00",
+          "patient_responsibility": "$238.40"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "BRIAN SCHLEY",
+        "date_of_service": "07/09/2024",
+        "services": [
+          {
+            "procedure_code": "D4346",
+            "total_charge": "$141.56",
+            "plan_allowed_amount": "$40.00",
+            "deductible_amount": "$40.00",
+            "ineligible_amount": "$141.56",
+            "previous_pay": "$0.00",
+            "refund_amount": "$0.00",
+            "claim_paid": "$0.00",
+            "patient_responsibility": "$141.56"
+          }
+        ],
+        "totals": {
+          "total_charge": "$141.56",
+          "plan_allowed_amount": "$40.00",
+          "deductible_amount": "$40.00",
+          "ineligible_amount": "$141.56",
+          "previous_pay": "$0.00",
+          "refund_amount": "$0.00",
+          "claim_paid": "$0.00",
+          "patient_responsibility": "$141.56"
+        },
+        "validation": {
+          "status": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]
