@@ -3,7 +3,7 @@
     "eob_id": "36633502",
     "file_name": "36633502.pdf",
     "provider_name": "KAUSHAL PATEL",
-    "confidence_score": "100",
+    "confidence_score": 100.0,
     "patients": [
       {
         "patient_name": "KELLER, STACY",
