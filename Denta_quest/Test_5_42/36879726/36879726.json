@@ -1,0 +1,74 @@
+[
+  {
+    "eob_id": "36879726",
+    "file_name": "36879726.pdf",
+    "provider_name": "Kaushal R Patel",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Schweitzer, Chelsey",
+        "claim_number": "202615337476700",
+        "dob": "05/31/1995",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0150",
+            "paid_code": "D0150",
+            "tooth": null,
+            "description": "comprehensive oral evaluation - new or established patient",
+            "dos": "06/02/26",
+            "submitted_amount": "$110.00",
+            "approved_amount": "$28.60",
+            "allowed_amount": "$28.60",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$81.40",
+            "plan_pay": "$28.60",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "06/02/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$52.91",
+            "allowed_amount": "$52.91",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$85.09",
+            "plan_pay": "$52.91",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$248.00",
+          "total_approved_amount": "$81.51",
+          "total_allowed_amount": "$81.51",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$166.49",
+          "total_plan_pay": "$81.51"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

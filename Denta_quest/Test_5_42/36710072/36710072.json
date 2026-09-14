@@ -1,0 +1,323 @@
+[
+  {
+    "eob_id": "36710072",
+    "file_name": "36710072.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "ALMODOVAR, ANTONIA",
+        "claim_number": "202613805066700",
+        "dob": "02/12/1964",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0150",
+            "paid_code": "D0150",
+            "tooth": null,
+            "description": "comprehensive oral evaluation - new or established patient",
+            "dos": "05/13/26",
+            "submitted_amount": "$110.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$90.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "05/13/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$37.00",
+            "allowed_amount": "$37.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$101.00",
+            "plan_pay": "$37.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          },
+          {
+            "item": "3",
+            "submitted_code": "D1310",
+            "paid_code": "D1310",
+            "tooth": null,
+            "description": "nutritional counseling for control of 05/13/26 $30.00 $0.00 $0.00 $0.00 $0.00 100% $0.00 $0.00 $30.00 $0.002040, dental disease 2052 4 D1330 D1330 oral hygiene instructions",
+            "dos": "05/13/26",
+            "submitted_amount": "$20.00",
+            "approved_amount": "$5.00",
+            "allowed_amount": "$0.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$20.00",
+            "plan_pay": "$0.00",
+            "exc_code": "2040, 2052",
+            "denial_status": "Denied",
+            "denial_reason": "2040 - Service is not covered. Please refer to your Office Reference Manual for definition of covered teeth/quad/arch, patient ages, and procedure codes.; 2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$298.00",
+          "total_approved_amount": "$62.00",
+          "total_allowed_amount": "$57.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$241.00",
+          "total_plan_pay": "$57.00"
+        },
+        "validation": {
+          "passed": false,
+          "errors": [
+            {
+              "type": "field_mismatch",
+              "field": "total_submitted_amount",
+              "computed": 268.0,
+              "extracted": 298.0,
+              "difference": -30.0
+            },
+            {
+              "type": "field_mismatch",
+              "field": "total_writeoff_amount",
+              "computed": 211.0,
+              "extracted": 241.0,
+              "difference": -30.0
+            }
+          ]
+        }
+      },
+      {
+        "patient_name": "HERNANDEZ, GLADYS",
+        "claim_number": "202613805128500",
+        "dob": "04/25/1966",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0140",
+            "paid_code": "D0140",
+            "tooth": null,
+            "description": "limited oral evaluation - problem focused",
+            "dos": "05/14/26",
+            "submitted_amount": "$104.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$104.00",
+          "total_approved_amount": "$20.00",
+          "total_allowed_amount": "$20.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$84.00",
+          "total_plan_pay": "$20.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "MALDONADO, DIANA",
+        "claim_number": "202613205071600",
+        "dob": "09/11/1971",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0150",
+            "paid_code": "D0150",
+            "tooth": null,
+            "description": "comprehensive oral evaluation - new or established patient",
+            "dos": "05/11/26",
+            "submitted_amount": "$110.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$90.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "05/11/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$37.00",
+            "allowed_amount": "$37.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$101.00",
+            "plan_pay": "$37.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          },
+          {
+            "item": "3",
+            "submitted_code": "D1110",
+            "paid_code": "D1110",
+            "tooth": null,
+            "description": "prophylaxis - adult",
+            "dos": "05/11/26",
+            "submitted_amount": "$107.00",
+            "approved_amount": "$36.00",
+            "allowed_amount": "$36.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$71.00",
+            "plan_pay": "$36.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          },
+          {
+            "item": "4",
+            "submitted_code": "D1330",
+            "paid_code": "D1330",
+            "tooth": null,
+            "description": "oral hygiene instructions",
+            "dos": "05/11/26",
+            "submitted_amount": "$20.00",
+            "approved_amount": "$5.00",
+            "allowed_amount": "$0.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$20.00",
+            "plan_pay": "$0.00",
+            "exc_code": "2040, 2052",
+            "denial_status": "Denied",
+            "denial_reason": "2040 - Service is not covered. Please refer to your Office Reference Manual for definition of covered teeth/quad/arch, patient ages, and procedure codes.; 2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$375.00",
+          "total_approved_amount": "$98.00",
+          "total_allowed_amount": "$93.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$282.00",
+          "total_plan_pay": "$93.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "ORTIZ, EFRAIN",
+        "claim_number": "202613805070800",
+        "dob": "10/10/1954",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D2751",
+            "paid_code": "D2751",
+            "tooth": "20",
+            "description": "crown - porcelain fused to predominantly base metal",
+            "dos": "05/13/26",
+            "submitted_amount": "$1,100.00",
+            "approved_amount": "$500.00",
+            "allowed_amount": "$500.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$600.00",
+            "plan_pay": "$500.00",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D2394",
+            "paid_code": "D2394",
+            "tooth": null,
+            "description": "20 MODB resin-based composite - four or more surfaces, posterior",
+            "dos": "05/13/26",
+            "submitted_amount": "$300.00",
+            "approved_amount": "$65.00",
+            "allowed_amount": "$0.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$300.00",
+            "plan_pay": "$0.00",
+            "exc_code": "2145",
+            "denial_status": "Denied",
+            "denial_reason": "2145 - Restorations are not allowable on a tooth with an existing crown."
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$1,400.00",
+          "total_approved_amount": "$565.00",
+          "total_allowed_amount": "$500.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$900.00",
+          "total_plan_pay": "$500.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

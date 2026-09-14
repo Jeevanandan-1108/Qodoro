@@ -1,0 +1,95 @@
+[
+  {
+    "eob_id": "36967107",
+    "file_name": "36967107.pdf",
+    "provider_name": "Kaushal R Patel",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "Konopelski, Edward",
+        "claim_number": "202609836449100",
+        "dob": "09/24/1966",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0120",
+            "paid_code": "D0120",
+            "tooth": null,
+            "description": "periodic oral evaluation - established patient",
+            "dos": "04/03/26",
+            "submitted_amount": "$62.00",
+            "approved_amount": "$28.60",
+            "allowed_amount": "$28.60",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$33.40",
+            "plan_pay": "$28.60",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0274",
+            "paid_code": "D0274",
+            "tooth": null,
+            "description": "bitewings - four radiographic images",
+            "dos": "04/03/26",
+            "submitted_amount": "$79.00",
+            "approved_amount": "$40.04",
+            "allowed_amount": "$40.04",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$38.96",
+            "plan_pay": "$40.04",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "submitted_code": "D1110",
+            "paid_code": "D1110",
+            "tooth": null,
+            "description": "prophylaxis - adult",
+            "dos": "04/03/26",
+            "submitted_amount": "$107.00",
+            "approved_amount": "$51.48",
+            "allowed_amount": "$51.48",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$55.52",
+            "plan_pay": "$51.48",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$248.00",
+          "total_approved_amount": "$120.12",
+          "total_allowed_amount": "$120.12",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$127.88",
+          "total_plan_pay": "$120.12"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

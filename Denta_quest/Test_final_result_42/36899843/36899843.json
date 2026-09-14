@@ -1,0 +1,181 @@
+[
+  {
+    "eob_id": "36899843",
+    "file_name": "36899843.pdf",
+    "provider_name": "Kaushal R Patel",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "GUZMAN SEGURA, NAYDA",
+        "claim_number": "202609836449000",
+        "dob": "07/17/1999",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0120",
+            "paid_code": "D0120",
+            "tooth": null,
+            "description": "periodic oral evaluation - established patient",
+            "dos": "04/02/26",
+            "submitted_amount": "$62.00",
+            "approved_amount": "$28.60",
+            "allowed_amount": "$28.60",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$33.40",
+            "plan_pay": "$28.60",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "04/02/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$52.91",
+            "allowed_amount": "$52.91",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$85.09",
+            "plan_pay": "$52.91",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "submitted_code": "D1110",
+            "paid_code": "D1110",
+            "tooth": null,
+            "description": "prophylaxis - adult",
+            "dos": "04/02/26",
+            "submitted_amount": "$107.00",
+            "approved_amount": "$51.48",
+            "allowed_amount": "$51.48",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$55.52",
+            "plan_pay": "$51.48",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$307.00",
+          "total_approved_amount": "$132.99",
+          "total_allowed_amount": "$132.99",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$174.01",
+          "total_plan_pay": "$132.99"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "GUZMAN SEGURA, NAYDA",
+        "claim_number": "202613134027400",
+        "dob": "07/17/1999",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D2394",
+            "paid_code": "D2161",
+            "tooth": null,
+            "description": "2 ODBL amalgam - four or more surfaces, primary or permanent",
+            "dos": "04/30/26",
+            "submitted_amount": "$387.00",
+            "approved_amount": "$92.95",
+            "allowed_amount": "$92.95",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "80%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$18.59",
+            "writeoff_amount": "$294.05",
+            "plan_pay": "$74.36",
+            "exc_code": "4495",
+            "denial_status": "Denied",
+            "denial_reason": "4495 - Under the contract, composites on posterior teeth are excluded on multi surfaces. An amalgam allowance has been made. For In Network providers the patient is responsible for the difference between the amalgam allowance and the composite allowance. For Out of Network providers the patient owes up to charge"
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$387.00",
+          "total_approved_amount": "$92.95",
+          "total_allowed_amount": "$92.95",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$18.59",
+          "total_writeoff_amount": "$294.05",
+          "total_plan_pay": "$74.36"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "GUZMAN SEGURA, NAYDA",
+        "claim_number": "202614735663600",
+        "dob": "07/17/1999",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D2392",
+            "paid_code": "D2150",
+            "tooth": null,
+            "description": "4 MO Amalgam - two surfaces, primary or permanent",
+            "dos": "05/15/26",
+            "submitted_amount": "$273.00",
+            "approved_amount": "$78.65",
+            "allowed_amount": "$28.65",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "80%",
+            "deductible_amount": "$50.00",
+            "patient_pay": "$250.08",
+            "writeoff_amount": "$0.00",
+            "plan_pay": "$22.92",
+            "exc_code": "4495",
+            "denial_status": "Denied",
+            "denial_reason": "4495 - Under the contract, composites on posterior teeth are excluded on multi surfaces. An amalgam allowance has been made. For In Network providers the patient is responsible for the difference between the amalgam allowance and the composite allowance. For Out of Network providers the patient owes up to charge"
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$273.00",
+          "total_approved_amount": "$78.65",
+          "total_allowed_amount": "$28.65",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$50.00",
+          "total_patient_pay": "$250.08",
+          "total_writeoff_amount": "$0.00",
+          "total_plan_pay": "$22.92"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

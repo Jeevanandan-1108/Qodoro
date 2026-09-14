@@ -1,0 +1,117 @@
+[
+  {
+    "eob_id": "36948394",
+    "file_name": "36948394.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "THEAKSTON, MARK",
+        "claim_number": "202616605041400",
+        "dob": "09/23/1960",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0140",
+            "paid_code": "D0140",
+            "tooth": null,
+            "description": "limited oral evaluation - problem focused",
+            "dos": "06/10/26",
+            "submitted_amount": "$104.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$104.00",
+          "total_approved_amount": "$20.00",
+          "total_allowed_amount": "$20.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$84.00",
+          "total_plan_pay": "$20.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "VEGA SANTIAGO, JOSE",
+        "claim_number": "202616105054800",
+        "dob": "10/05/1963",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0140",
+            "paid_code": "D0140",
+            "tooth": null,
+            "description": "limited oral evaluation - problem focused",
+            "dos": "06/09/26",
+            "submitted_amount": "$104.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0272",
+            "paid_code": "D0272",
+            "tooth": null,
+            "description": "bitewings - two radiographic images",
+            "dos": "06/09/26",
+            "submitted_amount": "$61.00",
+            "approved_amount": "$16.00",
+            "allowed_amount": "$16.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$45.00",
+            "plan_pay": "$16.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052 - This member has other coverage with a DentaQuest administered plan. We are in the process of coordinating benefits. The other claim will be sent separately and may or may not be included within the same check cycle."
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$165.00",
+          "total_approved_amount": "$36.00",
+          "total_allowed_amount": "$36.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$129.00",
+          "total_plan_pay": "$36.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]

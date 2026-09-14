@@ -1,0 +1,456 @@
+[
+  {
+    "eob_id": "37176206",
+    "file_name": "37176206.pdf",
+    "provider_name": "KAUSHAL PATEL",
+    "confidence_score": 100.0,
+    "patients": [
+      {
+        "patient_name": "ALMODOVAR, ANTONIA",
+        "claim_number": "202618205027000",
+        "dob": "02/12/1964",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D4341",
+            "paid_code": "D4341",
+            "tooth": "UL",
+            "description": "periodontal scaling and root planing 06/30/26 $320.00 $0.00 $0.00 $0.00 $0.00 100% $0.00 $0.00 $320.00 $0.003198, - four or more teeth per quadrant 2052 2 D4341 D4341 LL periodontal scaling and root planing 06/30/26 $320.00 $0.00 $0.00 $0.00 $0.00 100% $0.00 $0.00 $320.00 $0.003198, - four or more teeth per quadrant 2052 3 D7140 D7140 15 extraction, erupted tooth or exposed root (elevation and/or forceps removal)",
+            "dos": "06/30/26",
+            "submitted_amount": "$218.00",
+            "approved_amount": "$65.00",
+            "allowed_amount": "$65.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$153.00",
+            "plan_pay": "$65.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$858.00",
+          "total_approved_amount": "$65.00",
+          "total_allowed_amount": "$65.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$793.00",
+          "total_plan_pay": "$65.00"
+        },
+        "validation": {
+          "passed": false,
+          "errors": [
+            {
+              "type": "field_mismatch",
+              "field": "total_submitted_amount",
+              "computed": 218.0,
+              "extracted": 858.0,
+              "difference": -640.0
+            },
+            {
+              "type": "field_mismatch",
+              "field": "total_writeoff_amount",
+              "computed": 153.0,
+              "extracted": 793.0,
+              "difference": -640.0
+            }
+          ]
+        }
+      },
+      {
+        "patient_name": "CRUZ DEIDA, BRENDA",
+        "claim_number": "202619405014400",
+        "dob": "03/04/1954",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0140",
+            "paid_code": "D0140",
+            "tooth": null,
+            "description": "limited oral evaluation - problem focused",
+            "dos": "07/10/26",
+            "submitted_amount": "$104.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$84.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$104.00",
+          "total_approved_amount": "$20.00",
+          "total_allowed_amount": "$20.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$84.00",
+          "total_plan_pay": "$20.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "NEGRON JR, ELIEZER",
+        "claim_number": "202619505026100",
+        "dob": "11/15/1979",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0120",
+            "paid_code": "D0120",
+            "tooth": null,
+            "description": "periodic oral evaluation - established patient",
+            "dos": "07/13/26",
+            "submitted_amount": "$62.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$42.00",
+            "plan_pay": "$20.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0274",
+            "paid_code": "D0274",
+            "tooth": null,
+            "description": "bitewings - four radiographic images",
+            "dos": "07/13/26",
+            "submitted_amount": "$79.00",
+            "approved_amount": "$28.00",
+            "allowed_amount": "$28.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$51.00",
+            "plan_pay": "$28.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "3",
+            "submitted_code": "D1110",
+            "paid_code": "D1110",
+            "tooth": null,
+            "description": "prophylaxis - adult",
+            "dos": "07/13/26",
+            "submitted_amount": "$107.00",
+            "approved_amount": "$36.00",
+            "allowed_amount": "$36.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$71.00",
+            "plan_pay": "$36.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "4",
+            "submitted_code": "D1330",
+            "paid_code": "D1330",
+            "tooth": null,
+            "description": "oral hygiene instructions 07/13/26 $20.00 $5.00 $0.00 $0.00 $0.00 100% $0.00 $0.00 $20.00 $0.002040, 2052 5 D0220 D0220 8 intraoral - periapical first radiographic image",
+            "dos": "07/13/26",
+            "submitted_amount": "$36.00",
+            "approved_amount": "$8.00",
+            "allowed_amount": "$8.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$28.00",
+            "plan_pay": "$8.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "6",
+            "submitted_code": "D0230",
+            "paid_code": "D0230",
+            "tooth": "24",
+            "description": "intraoral - periapical each additional radiographic image",
+            "dos": "07/13/26",
+            "submitted_amount": "$30.00",
+            "approved_amount": "$8.00",
+            "allowed_amount": "$8.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$22.00",
+            "plan_pay": "$8.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$334.00",
+          "total_approved_amount": "$105.00",
+          "total_allowed_amount": "$100.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$234.00",
+          "total_plan_pay": "$100.00"
+        },
+        "validation": {
+          "passed": false,
+          "errors": [
+            {
+              "type": "field_mismatch",
+              "field": "total_submitted_amount",
+              "computed": 314.0,
+              "extracted": 334.0,
+              "difference": -20.0
+            },
+            {
+              "type": "field_mismatch",
+              "field": "total_approved_amount",
+              "computed": 100.0,
+              "extracted": 105.0,
+              "difference": -5.0
+            },
+            {
+              "type": "field_mismatch",
+              "field": "total_writeoff_amount",
+              "computed": 214.0,
+              "extracted": 234.0,
+              "difference": -20.0
+            },
+            {
+              "type": "row_count_mismatch",
+              "expected_rows": 6,
+              "extracted_rows": 5
+            }
+          ]
+        }
+      },
+      {
+        "patient_name": "RIVERA JR, JONATHAN",
+        "claim_number": "202618905030800",
+        "dob": "01/06/2003",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D2393",
+            "paid_code": "D2393",
+            "tooth": "20 MOD",
+            "description": "resin-based composite - three surfaces, posterior",
+            "dos": "07/07/26",
+            "submitted_amount": "$250.00",
+            "approved_amount": "$65.00",
+            "allowed_amount": "$65.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$185.00",
+            "plan_pay": "$65.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "2",
+            "submitted_code": "D2393",
+            "paid_code": "D2393",
+            "tooth": "18 MOB",
+            "description": "resin-based composite - three surfaces, posterior",
+            "dos": "07/07/26",
+            "submitted_amount": "$250.00",
+            "approved_amount": "$65.00",
+            "allowed_amount": "$65.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$185.00",
+            "plan_pay": "$65.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "3",
+            "submitted_code": "D2392",
+            "paid_code": "D2392",
+            "tooth": "15 OL",
+            "description": "resin-based composite - two surfaces, posterior",
+            "dos": "07/07/26",
+            "submitted_amount": "$220.00",
+            "approved_amount": "$60.00",
+            "allowed_amount": "$60.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$160.00",
+            "plan_pay": "$60.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          },
+          {
+            "item": "4",
+            "submitted_code": "D2392",
+            "paid_code": "D2392",
+            "tooth": "14 OL",
+            "description": "resin-based composite - two surfaces, posterior",
+            "dos": "07/07/26",
+            "submitted_amount": "$220.00",
+            "approved_amount": "$60.00",
+            "allowed_amount": "$60.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$160.00",
+            "plan_pay": "$60.00",
+            "exc_code": "2052",
+            "denial_status": "Denied",
+            "denial_reason": "2052"
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$940.00",
+          "total_approved_amount": "$250.00",
+          "total_allowed_amount": "$250.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$690.00",
+          "total_plan_pay": "$250.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      },
+      {
+        "patient_name": "SUAREZ TIBURCIO, CRISTIAN",
+        "claim_number": "202619105020600",
+        "dob": "11/25/1962",
+        "services": [
+          {
+            "item": "1",
+            "submitted_code": "D0220",
+            "paid_code": "D0220",
+            "tooth": "30",
+            "description": "intraoral - periapical first radiographic image",
+            "dos": "07/09/26",
+            "submitted_amount": "$36.00",
+            "approved_amount": "$8.00",
+            "allowed_amount": "$8.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$28.00",
+            "plan_pay": "$8.00",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "2",
+            "submitted_code": "D0330",
+            "paid_code": "D0330",
+            "tooth": null,
+            "description": "panoramic radiographic image",
+            "dos": "07/09/26",
+            "submitted_amount": "$138.00",
+            "approved_amount": "$37.00",
+            "allowed_amount": "$37.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$101.00",
+            "plan_pay": "$37.00",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          },
+          {
+            "item": "3",
+            "submitted_code": "D0150",
+            "paid_code": "D0150",
+            "tooth": null,
+            "description": "comprehensive oral evaluation - new or established patient",
+            "dos": "07/09/26",
+            "submitted_amount": "$110.00",
+            "approved_amount": "$20.00",
+            "allowed_amount": "$20.00",
+            "other_insurance": "$0.00",
+            "copay_amount": "$0.00",
+            "plan_pct": "100%",
+            "deductible_amount": "$0.00",
+            "patient_pay": "$0.00",
+            "writeoff_amount": "$90.00",
+            "plan_pay": "$20.00",
+            "exc_code": null,
+            "denial_status": "Not Denied",
+            "denial_reason": null
+          }
+        ],
+        "totals": {
+          "total_submitted_amount": "$284.00",
+          "total_approved_amount": "$65.00",
+          "total_allowed_amount": "$65.00",
+          "total_other_insurance": "$0.00",
+          "total_copay_amount": "$0.00",
+          "total_deductible_amount": "$0.00",
+          "total_patient_pay": "$0.00",
+          "total_writeoff_amount": "$219.00",
+          "total_plan_pay": "$65.00"
+        },
+        "validation": {
+          "passed": true,
+          "errors": []
+        }
+      }
+    ]
+  }
+]
