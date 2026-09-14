@@ -1,0 +1,45 @@
+[
+  {
+    "file_name": "DELVALLE, TOMAS.pdf",
+    "patient_name": "Tomas Delvalle",
+    "provider_name": "Kaushal Patel",
+    "claim_status": "Processed",
+    "services": [
+      {
+        "service_code": "D0140",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$104.00",
+        "service_date": "04/30/2026",
+        "cob_collected": "$0.00",
+        "payable": "$0.00",
+        "allowed_amount": "$26.00",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$0.00",
+        "denial_status": "Denied",
+        "denial_reason": "1040 - Service denied - exceeds maximum allowed per period"
+      },
+      {
+        "service_code": "D0220",
+        "deductible": "$0.00",
+        "coinsurance_computed": "$0.00",
+        "billed_amount": "$36.00",
+        "service_date": "04/30/2026",
+        "cob_collected": "$0.00",
+        "payable": "$0.00",
+        "allowed_amount": "$8.00",
+        "copay_computed": "$0.00",
+        "over_maximum": "$0.00",
+        "paid_amount": "$0.00",
+        "denial_status": "Denied",
+        "denial_reason": "1040 - Service denied - exceeds maximum allowed per period\nPayment Information\nCheck Number 7103307 Pay Member No\nCheck Amount $1,546.00 Total Billed Amount $140.00\nCheck Status Paid Original Paid Amount $0.00\nCheck Date 05/08/2026 Net Paid Amount $0.00\nCheck Cleared EFT Flag / Acct No"
+      }
+    ],
+    "totals": {
+      "total_billed_amount": "$140.00",
+      "original_paid_amount": "$0.00",
+      "net_paid_amount": "$0.00"
+    }
+  }
+]
